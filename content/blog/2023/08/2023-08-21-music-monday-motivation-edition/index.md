@@ -1,0 +1,29 @@
+---
+title: "Music Monday: Motivation Edition"
+date: "2023-08-21"
+categories: 
+  - "2023"
+  - "blaugust"
+  - "music-monday"
+coverImage: "image.png"
+---
+
+Music is my #1 motivator, in pretty much every scenario. Interminable distance that has to be traveled? Music. Most tedious task on the planet? Music. Endless list of chores to complete around the house? MUSIC. There are even some scenarios where I use music when I'm writing, although in those instances, it's usually something very specific, if anything at all.
+
+I remember listening to an episode of Writing Excuses a very long time ago where they talked about the music they listen to when they're writing, and I remember coming away from that episode with a slightly better understanding of how I could be using music; if I'm going to write. My go-to music for writing is always something classical. It might be a soundtrack, or a compilation of performances of a specific artist, but if I'm sitting down to do serious writing for NaNoWriMo, I'm going with music that's in motion but doesn't have a lot of words to distract me. I think the only time this ever didn't happen was when I was trying to set a "mood" for a fanfic, which isn't something I've written in a few years now. There used to be a lot of playlists with a very specific mix of songs that all had the same level of emotion I was attempting to capture in my own writing. I'm not sure they ever worked that well, but sometimes it was more about putting me into a specific mood so I could really get into the zone for writing, and once I started, I probably didn't need the playlist in order to keep going.
+
+Chopin is my favorite to write to, but it has to be the livelier pieces, because the soft dreamy ones just make me want to curl up somewhere for a nap. As someone who took 12 years of piano lessons, I think there's some sort of correlation between my fingers on the keyboard and listening to the methodical strikes on a piano's keys. I sometimes treat typing and playing the piano as a drawn-out fidget of sorts. Because there's something satisfying about the clicking of the keys, or the tones that resonate when I play chords and scales.
+
+Music is also such a good motivator when it comes to getting things done. People talk about how they use podcasts or audiobooks to accompany their chores, but give me a compilation of bops and I'm ready to power through almost anything. I tend to prefer something familiar in these moments. Give me songs that I know backwards and forwards, whose lyrics have somehow become etched into my bones. There's a lot of 80's and 90's pop that shows up in these moments, things that probably remind me of the albums or radio stations that accompanied my childhood housework. I think sometimes I wish I could go back to Saturday morning and turning on the weekly top 40 and having it on in the background while I was doing the dishes or something mundane. Waiting for my favorite songs to pop up in the midst of something I'd rather not be doing made it bearable.
+
+I like listening to music when I'm traveling too. Especially if I've gone somewhere far away, because a lot of times there are songs I hear now that I remember listening to when I was somewhere else, somewhere I might not ever visit again. Every time I hear [Buildings and Mountains](https://www.youtube.com/watch?v=R6VuCl-flto) I remember going to London. It's like opening a door in my memories to that place and everything I did and saw there. Things have gotten fuzzy with time, but I think hearing that song sort of keeps the hinges oiled or something, so the door doesn't entirely rust itself shut.
+
+Oddly, I haven't listened to much music as I've thrown these blog posts together. Probably the closest would be the time I had [Chronically Cautious](https://www.youtube.com/watch?v=cYgZUgRnz_w) playing on a loop, because I desperately want the song to be longer than 2 minutes. There's something about that song though, that resonates with me, because I know what it feels like to want to do something, to pick up all of the tools necessary to do it, and then just... drop all of them into a corner and walk away. It's infuriating to be in that position. It's the thing I fear the most when it comes to hyperfixations. "Is this going to be the new thing I do for the next year, or is it just a passing fancy I'm going to attempt for a couple months and then fully abandon?"
+
+Of course, music is also the thing that gets in my way sometimes. I have a terrible habit of needing to choose the "perfect" song. If a playlist starts off wrong, I'm going to end up more focused on getting to the right song than on what actually needs to get done. Sometimes, for as helpful as it can be, it just serves as a massive roadblock that doesn't allow me to get anything done.
+
+Today, music isn't serving me very well. I'm avoiding it, probably because it would allow me to shut my brain off a little too easily, and there are things going on that are stressful and outside of my control. So, I'm avoiding the music, and grinding my way through the backlog of podcasts I've accumulated over this summer. Thankfully, my podcast app just keeps serving them up to me until I catch up, so I can get lost in a couple of people discussing true crime documentaries while I crunch numbers into a computer and try not to focus on every other thing going on that I can't finesse into the ideal situation.
+
+This week is sort of shaping up to be a slog. I think part of it is the reality of the end of summer approaching and the rhythm of life beginning to change into something slower and more restrained as fall comes. The only thing I'm looking forward to is the maples going flame red, everything else is going to get cold and dark and I'm struggling a bit to find the shining light in that bit of the tunnel.
+
+It is supposed to be pretty hot out this week though, so fall isn't here yet, even if the color changes are starting to creep in.

@@ -1,0 +1,21 @@
+---
+title: "Lesson Time"
+date: "2023-08-27"
+categories: 
+  - "2023"
+  - "blaugust"
+---
+
+The final week of Blaugust starts today, and the theme of this is week is meant to be Lessons Learned.
+
+Considering I only just learned about Blaugust, an event that's been happening for 10 years or so, everything about this has been a bit of a learning experience for me. I'm finding out I still have a lot of things to learn about the fiddly bits of using Wordpress. And that the landscape of the days of LiveJournal when I used to post more regularly as a blog are LONG GONE, and it's just not the same.
+
+I've also learned that this exercise is practically the same as all of the other writing exercises I've participated in over the years. So much of what it boils down to is just putting something together and hitting publish. I think the thing I'm less enthused about is how necessary photos feel to this exercise now. I try not to just string together walls of text, but I think so much of the nature of reading things online these days is that they're broken up by contextual images just to give the brain a bit of a break, and as someone whose writing has encompassed novels and English Literature papers... very little of that involves finding and incorporating images.
+
+I think the photo element of this feels like the biggest hurdle at the moment. I need to start navigating some fair use options when I don't have something in my own photo library, and I really don't know anything about that. Growing up in the age of internet piracy and just outright hotlinking things without a thought for where they originated is not a great foundation as a base of knowledge.
+
+There are also a lot of things I haven't done much of this month since I decided to put this much time into my blog. I find it amusing that the bulk of the individuals I've seen participating are very into video games, and the one thing I've barely touched this month is my Switch. Things kind of come and go that way. I'm at a pause in _Breath of the Wild_, because I'm pretty sure the next thing on my docket is Calamity Ganon, and I'm not ready to face him yet. So I've basically been wandering the world a bit aimlessly trying to figure out where I still need to locate some shrines and what I need to do to build up my health and stamina some more. I shudder to think of anyone who devotes time and actual effort towards this sort of thing, because I've engaged in some of the most haphazard nonsense when its come to that game, but it seems that sometimes that's just how I go about things.
+
+I was hoping for something a bit more profound today, but we went to bed pretty late last night, and then I was up unreasonably early this morning, so my brain is a bit loopy and it feels like things are firing a bit haphazardly. We didn't end up going back for the marina concert last night, but Pride was fun nevertheless. We did decide next year we might try to bring our camp chairs or a blanket and just find a spot out of the way where we could sit and craft for a little while. Part of it is being there for the experience, and being the introverts that we are, sometimes its enough to just be on the periphery. We both sort of had a moment yesterday where we would like to have stayed, but we had sort of maxed ourselves out somehow. I think that's the thing that I was talking about when I mentioned yesterday that I'd like it to be a bit more like ConVergence. There are just options there to check out for a few minutes and then re-engage. But for us, we were either there, or we weren't there wasn't really a good way to step aside or leave and then come back later without just totally leaving and then coming back later. We'll see how we feel about it next year, if we're able to have a more concrete plan of approaching the experience.
+
+Tomorrow is Monday, the last week of our summer here, before everyone goes back to school and we all start acknowledging the changing color of the leaves. I'm not sure I'm prepared to embrace that, so it probably means this week is going to be something that simultaneously drags and flies by, as has most of August. But, we have some fun planned for the last weekend of the month, which I'm looking forward to, so if it does zip by, that might not exactly be terrible.
