@@ -1,8 +1,8 @@
 export default {
-	title: "Peridotlines Test",
+	title: "Peridotlines",
 	url: "https://peridotlines.com/",
 	language: "en",
-	description: "I am attempting to learn how to build a website without using CMS .",
+	description: "A place, where I write about stuff.",
 	author: {
 		name: "Kate",
 		email: "kate@peridotlines.com",
