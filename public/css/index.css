@@ -28,8 +28,8 @@
 
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: #7cfb14;
-		--text-color-link-active: #aafb14;
-		--text-color-link-visited: #c9fb14;
+		--text-color-link-active: #58f329;
+		--text-color-link-visited: #c4f584;
 
 		--background-color: #232b15;
 	}
