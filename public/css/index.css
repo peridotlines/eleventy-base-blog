@@ -28,10 +28,10 @@
 
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: #7cfb14;
-		--text-color-link-active: #69f7b5;
-		--text-color-link-visited: #a6f8c1;
+		--text-color-link-active: #aafb14;
+		--text-color-link-visited: #c9fb14;
 
-		--background-color: #15202b;
+		--background-color: #232b15;
 	}
 }
 
