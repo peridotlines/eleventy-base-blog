@@ -6,6 +6,6 @@ export default {
 	author: {
 		name: "Kate",
 		email: "kate@peridotlines.com",
-		url: "https://peridotlines.com/about-me/"
+		url: "https://peridotlines.com/about/"
 	}
 }

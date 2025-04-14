@@ -9,7 +9,7 @@ tags:
   - "gaming"
 ---
 
-![2024 Blaugust Felstival of Blogging logo, with black and white fading checked background](images/blaugust2024-litecheck2674701766089102473-1024x372.png)
+![2024 Blaugust Festival of Blogging logo, with black and white fading checked background](/blog/2024/08/2024-08-11-pikmin-bloom-lifestyle/images/blaugust2024-litecheck2674701766089102473-1024x372.png)
 
 I turned 39 earlier this year.
 
@@ -25,7 +25,7 @@ We started tracking steps, walked to the grocery store a couple of times, I trie
 
 Somewhere in the midst of that, I found [Pikmin Bloom](https://pikminbloom.com/en/).
 
-![A mii poses with a thumbs up and a multi colored squad of Pikmin behind them. ](images/img_2024-08-11-093857196908883513637229908.png)
+![A mii poses with a thumbs up and a multi colored squad of Pikmin behind them. ](/blog/2024/08/2024-08-11-pikmin-bloom-lifestyle/images/img_2024-08-11-093857196908883513637229908.png)
 
 At first, I didn't bother too much with it. My phone at the time didn't much enjoy me using such a resource intensive game, but I was at least familiar with Pikmin in a way I never have been with Pokemon.
 
@@ -33,13 +33,13 @@ I was haphazard in my first month, not really caring about the month's event or 
 
 It's been especially helpful having a couple of large flowers basically to myself in our apartment complex, as well as being in range of a few other locations that have mushrooms (the thing you battle to get more nectar, to then plant more flowers, and get _more_ nectar).
 
-![Three red Pikmin in chef hats on a grassy background ](images/image_editor_output_image-1651404843-17233882262067016242303822416342.jpg)
+![Three red Pikmin in chef hats on a grassy background ](/blog/2024/08/2024-08-11-pikmin-bloom-lifestyle/images/image_editor_output_image-1651404843-17233882262067016242303822416342.jpg)
 
 Then I got into collecting the decor, and that's probably when Ivory started to hear more about me walking around and collecting gifts on expeditions.
 
 It's taken up a good chunk of my time this summer, but there are only a handful of players in my area. Things picked up a bit during the 2 weeks that Unicon was being hosted, but otherwise I only regularly see one other player in the area I've come to think of as my own.
 
-![A screenshot from. Pikmin Bloom, showing some unbloomed large flowers and the paths of flowers planted in the area. ](images/image_editor_output_image-742729296-17233899926196624693423479869694.jpg)
+![A screenshot from. Pikmin Bloom, showing some unbloomed large flowers and the paths of flowers planted in the area. ](/blog/2024/08/2024-08-11-pikmin-bloom-lifestyle/images/image_editor_output_image-742729296-17233899926196624693423479869694.jpg)
 
 I know I'm pretty isolated here, but it really comes into focus visiting a larger city. When we were at the Hyatt in Minneapolis, the first week of July, we were basically on an uninterrupted carpet of flowers. Here, you can tell exactly where I have walked, every single day.
 
