@@ -9,7 +9,7 @@ Spring/summer of 2020, we went full-out container gardening, with limited succes
 
 <figure>
 
-![](images/0517201756-scaled.jpg)
+![Kochanski the black and white tuxedo cat looks around on an open apartment balcony. She is surrounded by a variety of planters some with new starters beginning to grow and dark soil waiting to show sprouts.](images/chanski-balcony-garden-starters.jpg)
 
 <figcaption>
 
@@ -25,7 +25,7 @@ Squash, peppers, and onions, which turned into some blossoms, a few peppers, and
 
 <figure>
 
-![](images/0818211523_HDR-scaled.jpg)
+![A variety of containers holding light purple petunios, a roving squash vine, and the sprouts of some other flowers. There is also a small bird seed and bird bath attached to the railing.](images/balcony-garden-petunias-squash.jpg)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ Sadly, I have no decent photos of the zinnias, which I suspect to be what initia
 
 <figure>
 
-![](images/FB_IMG_1629497540343.jpg)
+![A hummingbird perches on a feeder hanging above some sunburned and spindly purple petunias. It is a cloudy day.](images/hummingbird-feeder-above-petunias.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ We got the other feeding station set up after a visit from a couple of grosbeaks
 
 <figure>
 
-![](images/0814210824b-edited.jpg)
+![A female red-winged blackbird perches on a container of cat grass](images/bird-with-cat-grass.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ For the better part of this month, we've been ticking all sorts of boxes when it
 
 <figure>
 
-![](https://lh3.googleusercontent.com/pw/AM-JKLX4o3iJecT_rYLYBXTiJzeeSJk40jsqGKlZKvNyUX3FuxQT2pS7sXmaCwmOdeu_5Vo_InZfBSyMMvhBN6k0J-80wvxHXDTQ8EEE3YNkMqeEH9XxYVPSE3kEdzKf8wMtnIn1Qhr0OzwVYif7Hyo9D6llmg=w1250-h937-no?authuser=0)
+![A pair of brownheaded cow birds sit on a green platform bird feeder. The male is in shadow, obscuring a clear view of the female.](images/cowbird-pair-at-feeder.JPG)
 
 <figcaption>
 
@@ -95,7 +95,7 @@ We also got a short visit from a yellow-headed blackbird, which was probably the
 
 <figure>
 
-![](images/IMG_20220517_104155087-edited.jpg)
+![A partial view of a yellow-headed blackbird balancing between two tines on the balcony railing as it eats from a cage suet feeder.](images/yellow-headed-blackbird-with-suet.jpg)
 
 <figcaption>
 
@@ -107,15 +107,15 @@ My favorite part was watching it balance between the rails while sampling our of
 
 I was certain that must have been the bird Ivory saw the morning she said we'd had an oriole, but then this week male and female Baltimore Orioles showed up at different times. Thankfully, one of them came back to have some grape jelly once I'd seen them for myself.
 
-![](images/DSCF0232-1.jpg)
+![A female oriole perches on the edge of an empty bird bath containing half of an orange with some grape jelly.](images/female-oriole-at-feeder.jpg)
 
 I'm interested to see what else we might attract once we actually have our full array of plants back outside, but so far, my greatest triumph has been the chickadees. I love listening to them and watching them hop around. It always makes me think of this print of a chickadee my Grandma Kalvig had at her house; I think it was titled something like "Winter's Cheery Survivor." Seeing them always makes me smile.
 
-![](https://lh3.googleusercontent.com/pw/AM-JKLUGXxvs3YnHTm5hUY50FQP6K3gMDbtbnY_7bKIQjDN5MknBuIGZGrT9Yn9ZZ2udQUE7MqyBxOMdcLXKt8Gp5u7s3COX0bg-gaui6P-4BN7FoJVmIrIxgIvN6MvFBcOikoFW1g-0O1NFYIn0Xk17lxDmzQ=w703-h937-no?authuser=0)
+![A black capped chickadee perches on a green platform feeder looking out over a dreary day.](images/black-capped-chickadee-at-feeder.JPG)
 
 My intention of attracting the birds was mainly for the entertainment of the cats, but I've found I get just as much enjoyment out of seeing them as Chanski does. And even Moxie took some notice when our initial flocks would spend whole mornings hopping around in the snow.
 
-![](images/IMG_20220405_125451738-edited-scaled.jpg)
+![Moxie and Kochanski stare out the balcony door watching the birds offscreen as they partake of the feeders. The cats are contemplating murder.](images/cats-spying-on-birds.jpg)
 
 I'm hoping once we have our actual container garden set up again we'll see a wider variety, and maybe an increase in the pairs we currently have.
 

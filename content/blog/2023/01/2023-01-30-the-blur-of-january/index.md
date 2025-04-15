@@ -15,7 +15,7 @@ After several abbreviated trips around our apartment complex, we finally took ou
 
 <figure>
 
-https://youtu.be/cfmx2UGR1vQ
+[Go here to watch the miracle of moving water outside, in January, in Northern Minnesota.](https://youtu.be/cfmx2UGR1vQ)
 
 <figcaption>
 
@@ -31,7 +31,7 @@ The trail runs pretty much parallel to both sides of the river
 
 <figure>
 
-![](images/IMG_20230108_111444410-scaled.jpg)
+![A still photo of the turtle river with running water.](images/open-turtle-river-january-2023.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ Ivory gave me a holiday-themed LEGO set for Christmas, and I was planning on hol
 
 <figure>
 
-![](images/IMG_20230104_121636593-scaled.jpg)
+![A slightly over-exposed photo of the Lego Holiday Mainstreet box, before I opened it to begin assembling the full set.](images/lego-holiday-main-street-box.jpg)
 
 <figcaption>
 

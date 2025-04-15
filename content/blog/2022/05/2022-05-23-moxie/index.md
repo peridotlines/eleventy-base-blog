@@ -7,13 +7,14 @@ tags:
   - "moxie"
 ---
 
+
 _03/03/2004 - 05/20/2022_
 
 I've had something of a tradition of writing to get through grief. It's been a while since I last did it, literally 2006, so, 16 years I guess? The last time, it was in the midst of an ending and saying goodbye to someone. This time, it's after the fact, and the grief feels partly raw and unmanageable, and somehow old and ingrained within me in a way I won't ever shake.
 
 <figure>
 
-![](https://lh3.googleusercontent.com/pw/AM-JKLVsQ3lTxoME-ZQaviyI148FbQN_dp_29PMxmAxtwQA2L0nuliC-4_WdhwoIEbQgo1HTbiWDLMFK1LuOh84ZaLj4ItoXMV5JBhxR0zTA8BDcdE5zbW0ys9927WLj8OpslKjY5q_w6G4NOf2ZcYvmrcx2fQ=w703-h937-no?authuser=0)
+![a calico cat sleeps on a fuzzy blanket, head cradled in in a human's hands](images/last-moxie-2022.jpg)
 
 <figcaption>
 
@@ -29,7 +30,7 @@ A week ago, Monday morning, my partner Ivory made the call to set up a vet appoi
 
 That afternoon, she went in for a few tests, an x-ray, and they found something indecipherable but ultimately painful and fatal. After a lot of tears and heartache, we decided it was for the best to avoid or prolong any suffering, and agreed we would bring her back to the vet on Friday and say our goodbyes.
 
-![](images/IMG_20220518_093801082-1024x461.jpg)
+![a closer picture of the calico cat Moxie, displaying her black nametag with silver text "MOXIE". She is wearing a red collar.](images/moxie-close-up-nametag.jpg)
 
 I wanted to share a little bit about her life, because when it's all said and done, I don't think it was a boring one.
 
@@ -41,7 +42,7 @@ When I came to pick her up, I remember her foster mom saying how sad her kids we
 
 <figure>
 
-![](https://lh3.googleusercontent.com/KtA4dTR2pTI8k3mufPVJMfV8i-jueJTHqyyZBkHv7gVpq3RcBOet0hmympZjwzK3tws7CmoqxmETTgJ6LBfJOjfl-Yu50uENSrx0mn-iRqhQUK-nyOQJH15uhzSFjXFputC48pMNNOaJsAoGu-J1KVIkiII-pykmzNiKRinjgaj5rqqXZ63fwf3oiFH86K-4APaLbOzOmYCbm-895aETZS66-MDzV9XzolgnWn8ww5vB6FPTz9rSXP2wtGXL7ngwW_YjjPnZX2K9HzsoHkFYOO7jCCpmw8SqxnBULpmAaEwFY9SK-_FDjutLd_ydPMWCsRvr-Qx1ulpLSmD7zWxmDRnH10930ShgPeEzbJAsYv5oqujz2t0WyQHNdoTTtn4Pqq0bVXRcwtJS3fQ2DZeDBPc6LnzUlf4MopPKUDKktJJ8hRel6Nb1XRn8_JNFZdLQS2HVP4Kqb9hKZ97Idzqu0kRU9sIJlUj365LnBeNcznkPfCsiSTriB2wyi_QbyBo2E1Zrh7_xy_0wM_gHUcbEkwSBWAaNhLtjUXxNvPj-B3_VJdHOouGAJeI0WVb1Zdha4bQSjAODgok_wHWpZQwYvUKoVrc625mcn9M6AnjympfvQrlG3X9LUta1nOTDbXk0XFmQnvtcYfFKuwGuJ2B0TAHoYEMQM2MnstB-7w6xrh6kP4Q1rgZkgvKjyQ24skyRg40dS_5NoAQ20UxbroRBrEgv23i2LakPn42cEFnG3tuz9liSKPKZFlx8HZxzZOMW7Hx5FdGyt9IK9fM8j7kJu9z2-OeedbV4Kg=w320-h240-no?authuser=0)
+![Moxie, a calico cat, balances precariously on the edge of a small bathroom sink, looking doubtful about the new accommodations](images/moxie-first-nights2007.jpg)
 
 <figcaption>
 
@@ -55,7 +56,7 @@ Looking back, I'm not sure I had any business being a cat owner. Cats maintain a
 
 <figure>
 
-![](https://lh3.googleusercontent.com/O4KfqactJG2kn-f8z7tdZgOT5oy1OvNORJpG7enF7mvFrcK6OrxNH7sdvpuIZIw7ESf_qthxkx5PMNS9xlj2IejIjQeTUgv-6i-HJaDTwtca4MSGgqCCGgUp3TtpvffpgY2wr5qAnieaqj22RNrrzqhtwMvdC-TmXrN8jkSmCUX4Sw0JfP8N3NYunoYGEtIOe5hG8zeuVGKwCTMOEBzjpevDq5wBY1ix12eeAl6wrStqDA_lG6EOGBIfihNjL_-Rcgjs3JGw47n9SrzF-21P3lqQOasm4rQcXp9qtGEZyqJePiL7HT6Y1P0-UmfkcGnweo8ijqoaLipRqZeR_Quc0cXmuvz3QammdpMUfYjHUD9xcYlVYqDb3vWIj05lH231eqzM8Mgtw-g6y5oOXg-p4dLzw66DE2I--J6RTeuuvQMfAT6mGkwSnE6OPCnHHQukrfDKkTHYyB5uBAhqjAjeDMtoBV8q7WA4Y_SpmydqurqQYQMnKvf9cAfh29fGMjHUQ6mbfBnWLFlLNz986TU1skXp2mhZ-my6bJbF928-gx-HkiT8WgalKgRBjPLpcbjEA5RFKgpgPMTQ-CxtDbE2d5lbqw5l8nwVBnOMrI1RfauuMN4O6gpwUNOh3B2wbCx50zE2Xzyts0f2FgtlRYufSmUB_ZTZJ6gWQIUXpFcymRbKE9BRniU1u0n-F9wgXnYfkPgORQ3VQJ2r3_bMvnMaaF0zzJZAQImxhrlnni0-XjbZGVabv98u-EC9s31IR3qJBOBXhypMyuoR_Fn3wu9xFBHdqqqIlQe9tQ=w320-h240-no?authuser=0)
+![Moxe the calico cat lounges on a dark green and white plaid blanket with part of a computer keyboard in view, she looks relaxed and showing off her soft belly](images/Moxie-first-snuggles-2007.jpg)
 
 <figcaption>
 
@@ -67,7 +68,7 @@ Evening December 9, 2007 Cuddlebuddy for life.
 
 <figure>
 
-https://youtu.be/juQYVmxeQSI
+[Moxie and her wand toy](https://youtu.be/juQYVmxeQSI)
 
 <figcaption>
 
@@ -81,7 +82,7 @@ I know its very dark to see anything here, but she LOVED this wand toy with a mu
 
 <figure>
 
-![](https://lh3.googleusercontent.com/4H6FkQGqTxLYoThrhNMdajZzG5O4scLOCy8i6t89RsOdJ8LP4CsLFakCrosJtvAkf3evJsTxBLi0_3tSASlJ_W7f_oDKR1J3ZMeLsHZe-7D1g4FFV3x6wcKYneOiHjkkdtYPrJ7b6UQoIN_5S-9UJOESmal5fUdOTooN-NgObZ9ECaUlYl6rC-ULf_pQ1ivTtehY-Eb2_LeC0UOeOLS07OEPOomCZvQG8O2zws34FLnBP0saHeD4oFOPrx6Wt3HBH1vh7GqHrWE7dXqqGVK5HR1g-AuOlbdTyYXZiToxzxVSgLTSPL5UTr1XwrnicnosCCbVyXEXZj-HTKgK-RVWoqNEuVDwFU6QzkvKiGX7jO7d299dNT-kGRMaV7cQlTxC9ehIGhYwXUJVaC6QJgmsnLnyUpbn6bnfYyBxpuBsMLxBqJoNUIP8-E7HVXwfqgBeVjpZANYyw2QIySr0BnyhjlZHtntvSyrwWu3IXp9mWsEqFnlEE0rbMMpMln1lziE-TLQA0UyxylUXw1uUpP7lUhynlDbg7RDGBuMz-i59U6rSB089Cxbh57ZmV4xyGz25pg6N3QOM6YbDDEkSqYgSPB9XNlZQSYGZ1kIjsAvotxu1v7Sx5FO2e3U1rhLTLYhiZw9_R0jdoTNa0G1iEuR0JOgcbUDKSTQdQl5JUy4n0eATjTwKv_hEwtB93jAvuD5q0lU_iDYpRGnPfjxx12_lCk46jqWaI9N6XZcpEN7RzPJBO47XFwEHfnFo9S59LMo7fZrzk7SijcbRXcsCzs0jU2tKrb0TJO06SA=w640-h480-no?authuser=0)
+![A brightly lit galley kitchen with a white refrigerator and wood panel cupboards. Above the refrigerator, Moxie the calico cat peaks over the edge of the cupboards, eyes glowing from a poorly utilized digital camera flash](images/moxie-cupboard-lurking.jpg)
 
 <figcaption>
 
@@ -93,7 +94,7 @@ My glowing eyes mean you can't see me up here
 
 <figure>
 
-![](https://lh3.googleusercontent.com/6XnSTqDeJKzRCxfugv_XA_qTKbby5ADGLhORo9rej5M0pZmmgfIlYHPGGpV8PBvs0uOdPNc9ldOHv55fqHrn3No7qqi1_xNG1PeW71E9owvyxgZzdNQlTeNj6mQuqXOSmqNpNkyW3O_aKfCuYsY2wg2nGOORniub7iDWKEmNVcTybw5R77YYa8p9Q2Vk6fh2jUiJQ03v5t8T9eTDQpGJjEZLNDhRHGuNkjZDRYfPmyxq-guAhbep5yRL9oP_A7Hrz8G0pU9bv8e-3dpHTC-TGhhzKOOYM6MuLFUsCfHcBx-mOgup_mD1KyQx-A_juLPWzqFJgKCVwxcE1oNpFALqoXwOL_EkdA3WgERkPntNawZUIOz85fkI1vju9XvGOyGa_2bBv67_S2sGz0J1g80Cx47_9lLH67x7cv3ytvROVitC62q_hU60mP4CQ5s600n0BFsd-_F6_GKHMPXZ2ljhxijOPJ3MHA1D-AmUPbgDbuH_u5DoXKTlhdt31l-q_miNXgL0rfDgG27u0Ncm0JY3cVf60Sc7tVe0tN4tPLFkK7IxfHenYYrI8jf8491a-swAyqKQbKEbp42Y4G0k9CNkw2RYJ4FFrnhZwgvd4SZdUZIro5MxqPETevkBbcyGPy6PxC7cDsDjSCp-7XPG8R-sXvWahHv7_2NxA3d3pDslMEuSH3Zx3pdTVjVWDz2YCU3zBBLKWkl6sWio2YLNtTTGk4s9ufUnbn_oaCP2A9TVu9NIEd-xBPLyN5sisKrX5vi_T-FGJL8lSfpL80LgHdhYIJ-JleoUGkBHHA=w800-h600-no?authuser=0)
+![Moxie the calico cat stands on top of a silver CRT tv staring up at an ancient light brown air conditioning unit, clearly up to no good](images/moxie-tv-exploring.jpg)
 
 <figcaption>
 
@@ -105,7 +106,7 @@ The top of the TV, access to a whole new world
 
 <figure>
 
-![](https://lh3.googleusercontent.com/h931WKbPv2rtlxexgD7TQDKlrbR4ZXO5JgsTgEgkk3MDXj-ZsB_Ko27lxhoGTTt1GoAXvimPEKBXVRKNLton5WlaaBP_HV9wY5iICqLW0uFJx-N7dpsrwCmuLJwAZNUTyyzJHQc1h7uRMtDRGjIg9lKjycxs6-yMMn7wtZM9TWLiZu-7DX-djt_CgDhYUjKaak6QJ1bI3M9KYNCVkwwOAJ5z02Tv0EU7QvVjvbYyc9a1Qjtdqsxmrxe_uWqdaZanZjz0_4YL_qWHmEzyYbqMzlv3RzV6PZHRmuvkqX_ZkaPXhXiS0cBaAKgaOXo14hABYzR2fqZU4fZo_W0w6kTzg8TABb5pKW0kHk_ZoEknE7nuyGEBiPrV7KuxBuTqKEVaFzPKQss3ZnKGTtwBc9NU4CkjHG1ZEGKkANpXN6pNLnefGVKWtBN05p0VG2A73Q2crAkdPXUfp0va2g0a7Rumn2HuWrLNN3GLFbxujWXBjUm0QqnHyelZVRgl57fnwr05dboepUV09ci2ZjhLS8OH4jhC-tX_jkd4uY9omve_mDNUyDCBvyBsMmMknKA_GqOFagPSpLjRjUTMu4wooiWQ8uEanWNPRQ4QkjWc-nLy210B7DSakmyREOJ9x2TUwMyxfk8WK1_1XFg2R8fVHWir6psjsFQO9iGw5Gx4eokZQnk0PF5q3zSsF1z0cmC_7GeDbpXt1SEjctTaro0D7Tmj1mPZ4POCm2LLqMVB_1lWW5613SNBNTN-x5QiHYE89fByV175-DRCz_a5SYmNvIRzF6oZHfv3rE7X3g=w1024-h768-no?authuser=0)
+![Moxe the calico cat stands on top of the same silver CRT tv, trying to climb onto a book shelf while sniffing at a spindly aloe vera plant](images/moxie-tv-exploring-plants.JPG)
 
 <figcaption>
 
@@ -137,7 +138,7 @@ After that, she spent the rest of the day on my lap, and was then locked in the 
 
 <figure>
 
-![](https://lh3.googleusercontent.com/C3g1-gFj90PN453zYzjFXC8UccG4PcZTXQ6lo_B7SOaFTkTwbJ2JfyW_TaK7tCQTh06THcTj9aV6eTW7NYcx042WGxWGVzIcP-lJR_jaDsic0IQO2LplNQIqDnpdgmXbeiRMKzSwiPfPeu3P2Ryh6WJOPiAzgLsyAoXlSdU8iHborXxW129DSQYfTSHMjRsA2PxRu-0t_7jmmrlPDOI62XcOOuZkPen6NMqZHroOmwB-Lr0LiIhI8P6J4OY18JDNbjyYBTCoi1LD28_EOA0hGyzv1eCobjXXyHMEENYgn6eT6UbQPBcX4uuLkPb7oftDR4yvZs8c-7aayCirWOKdJTFiJyQdxFtPng-2ekylt38MhdbiwOhFxRhLU1tCGrJnCd2koOkLoMMHuUeQZprtj5eHCTPsbomdJybBnEjUnZ9pdWSXP2Gw4cKCcEXlzLJStUhbnR057tGBGP2v8j0721xYQBXskGktcMVTXusnzRSiFv3fukJ-Eecg30xjFGbQbHNVc3Rsych9INraV3wS1oT5E4tkLyDbCbFRnn2b9_hGXoBmBdT8obXhP8NSGN4ZEAtSj3qJydRN2R4SUDhAt9zYPY9MNkYCPrdgbxDGDjjUVXdAhfTO2U8KjyDQa-Y3VHqgT9ChvDHa3Io-hRen8tcMZNBCP-GgKsdLes6PAvh1bDZ32u1F2VTlcTWYXOUcMIR6PbwFXqB88pwyMWXtsLqkXkSqYMcdg7rHcTbcSljfRTHx169QkUzGsJb6P5ONWNwB0pr7zBxT0AA6RMT2VnlVNStugB8B2A=w696-h927-no?authuser=0)
+![A blurry photo of the calico cat Moxie sharing a blanket with a black and white cat, Sylvia, facing away](images/moxie-sylvia-twins-blanket.jpg)
 
 <figcaption>
 
@@ -149,7 +150,7 @@ Sylvia (tuxedo) and Moxie, unwilling cohabitants of a lap
 
 Moxie seemed glad to have a sibling, but her excitement wasn't ever really reciprocated. There were quite a few angry chases around the house, and a lot of battling over food dishes, with me forcing my parents to "upgrade" their cat food because of both cats insistence upon stealing food from each other.
 
-https://youtu.be/Q-RapG8Vt7U
+[Moxie and Sylvia's wild kingdom encounter](https://youtu.be/Q-RapG8Vt7U)
 
 Things sort of settled into a routine. I got a new job, commuted to work, and we stayed with my parents for almost 4 years. In that time, the screaming chases came to an end, and Sylvia spent the summers out at the cabin with my parents, while Moxie and I stayed at the house.
 
@@ -165,7 +166,7 @@ Fall of 2014 we finally moved out on our own again. And then Moxie learned to lo
 
 <figure>
 
-![](https://lh3.googleusercontent.com/YhasKHvreIs-bTbnRtBfvnu1wc9zzIPZB_HQpaHy2yaqLfhLSrobzAnrDjFt9Jr07odqxJRyBP3QkGBMxTi5lOZPANlIW-Gyw2rs9uz59rMGMH8-UFmbUtlPBNVcqBQfDy19AkYFVTvQ8O4_zSu0A8pYUVNL_AmYWAWSUwGqW1yG05VcvU1wCR8yk2xP3MFo7jMYusSN_GtyFi5h4xFmQPkiHZPOA0hd7gf_j71T-DbGkk_FPG9Rhw7uFZKNYeZPtYBZjGYXfl9SfYSMFXVTjXPGYzDpSV7xEAfnwzQ2mSomKYLE-Y_Hu941oo7KdTiFGa-KPYjdGr1DXda_mDPqUKyYKhGVzY_y8RpYygBzwTQvV9YQHo5ncwuUTIxDJ8Iq5xJFDQoBI4IH3qk96Vs8pcvJeT0TMNvpPYQlRMV-HyHJXLsXPA-_ESdgOWvfklm3b9HcCLsj9r7WqCg2RjyxojkrLofxx2wf65jM2NNPYgdvLU2zJ_j9dXbn1Qvygemxdx_5hwjsDeGH-HeMbYIntlKbCBEvpH4ZvxGNKsSTu-1wVJ_4bv0ygQvstnOSA2eC3qGaAhv1DzS1ouXZQtTGUmFlH_RRgx8epLz_4Sye1hmMPCll-_a7zTdvp9jbax4gAICrCn0v0WoafK1P9muMFZktXjD7zVwtz2WfLVRuGGX0kTPqL_yluLGnWKravtNfXAIN1IDjcTEJCzgiMKyNJGs9Hkm-baK-UziRWyHMGRWciWmIWqFXC5sY2JzM7JQz2owjIhfkiYLNAbbBLMt7l90v3j554xxSpA=w526-h927-no?authuser=0)
+![Moxie the calico cat sleeps on a bare white shelf, resting on top of an old radiator coil heater, her empty cat bed sits beside her](images/moxie-radiator-shelf.jpg)
 
 <figcaption>
 
@@ -183,7 +184,7 @@ Unfortunately, the somewhat-crummy-apartment was also where we had further run-i
 
 <figure>
 
-![](https://lh3.googleusercontent.com/fW0b_dFVrFsniMxvu6Q_INsyBF8F3TfpMafOQAzRFJLN_G8D93iP4jO5aoSJpMi449lGJKWQw69JhEeNs3Ydc1nhgdMd9ngxgqO9SmKZBmP7vlZjYxv9MnoAUQWDwAcKY0tbHJkpq4_7Rp5wxVsNK9sV7WAK7bRrFhc9e2jhBNBBQARPzgB51hmQtge5RypUBoAXegpUNnITEjKUHIjOe52o5bOqbFGK6th-RJd6xeWFIjlhR3XMUYuW7IukuL6LNCpPL18lujNUm8oHG1hrcT9Muomr-F4iYhaLEV12PhIvcmB27W3SfnqaEhyBKLv-vDK3GbtPVkoGjYODQl7VRCyL4qtnM116TQQSHDaeapUiTR7eEtcpIvrWA_zHCdnqd-JtLefUK04t5Zl6gVRUyxL5r7RFdsYt5SS--ULxLgPKO4gNCaLZ9ZwJrP23ZMgMBE80UhjJKr0Jwlo6An6Ldgbz6xOowgpH8X14GzUyv-AfRQwSXWfFfcO1Sgb5uUHIQy8w25EnxYkSbor5w-NdjIt3tH1QDC4RPASQYXArvl_BTHoMCaMcTN8W6C5cpKb_t_zdMZoih2-mGdsKgA35ZxSkHD5xbkcvJZFEwxuINI6V54tG3rQ9gL1cK5Jmof364yULaWX3WhzTkmCOajw0i7VKBQ48btaxOvXfyfsPv7ygDkQ0JuWgZnH2h7Zl-Mde8FnMZk7UrtnjY1Z35r3Ovv4-c1YxzQQfjCNs39_gIQ0sbZTUpkWTqMCZj0X-9yGDcH93-Tqj3_yTgm-IDw3PniuA6pJ7psEIpw=w1560-h780-no?authuser=0)
+![Moxie the calico cat stands in a open window, looking a little skinny and rather frail](images/skinny-moxie-windowsill.jpg)
 
 <figcaption>
 
@@ -197,7 +198,7 @@ She lost a lot of weight, and it took a week of anti-nausea medication, and me m
 
 <figure>
 
-![](https://lh3.googleusercontent.com/LCH2jVyooNolNUzrMOUMZ5QdDYZYFyuBeFL8Nry-TDquL1HXHfpU7gIsMYmHgE3Izng3ZOgXzBQTMYUH_dSvvFC7mRZbw0MOuaGlwiiE-Qdckt7CGnNugHKQ6ACNmnCGOd-oMHeJ74jLl05iSxKWscEfEAjvpjMIo_3hO7rRG7v4Z6iqsGXu9noWogVtyfC1Omi7OTw9-JSbtpOLCgRnwPDW13TOeppM5zPS0X3ghtVQtQzUB9RDVJqV64RnuldTIMVWr-rtv_epv3s89ap9Wst41UQXL0QQm54ACJ6E9K6gjYCpfxxWBjee1DhfXygABA9b33GrmS6DxMLRg23lx73YaAov3dji_VtIQpCnOd_44DhjL8XqhkucralzsYcd5yQ25Y9r7jr9MJBAlDhRioe1cI8XSjvCyvriVO9NIjFgKlyGKCgHl_W0jwyTckseIIcY4x7W7yjygNUBFCg4Zeay6eBZWM6ZwzdeXJ5uVwQ9XWZHTNlle_i_WYH4UGpq9wWYWGrKcIgiv2CNleNsSBvsn-zbuW7r0-sN85W-4ADVDR2HFTHbCIyjvaWTH4mdmW6dG4zQIfk5hiq_NoT2TLm-Pfyq_RjtqNzvoNlwT7JZ2gYkKD_yG3MqkK-gukn2lRZJ9bTbxE6ciPWKV8ebTLwWR_k0zFyZbmJCXJLI2n3amrvRXZPOKZc3flBWl0SU05F16xGBYCNoAsuboZs3D5xGsL9O7C-rOSc7X_CaDH8LxBsLoNf_PZsPauY3RY6zb05-SGqw5BerkhBu_LQsPaEj87R5_lmhdA=s927-no?authuser=0)
+![A front-facing photo of Moxie the calico cat. She is standing on a couple of pillows looking a little less skinny](images/moxie-pillows.jpg)
 
 <figcaption>
 
@@ -213,7 +214,7 @@ Our exodus brought us to the building we're currently residing in now.
 
 <figure>
 
-![](https://lh3.googleusercontent.com/iASGqLGhqUJuKFINPUcqcFRru6gJjq2uB1XbRFuTOmc29qFfrlBmdGit8ko44vge39zi_UaFVj2mJmrXJbGRymEatNBovX1TwtqtPFikASWirxwKHE6_VnOct-4Pu3I7tM7ACJNtkP6BXoyxaHJWQcCZ-a7v_s-00lT-n_aPwHLKWtPetihUQ-K798y7yw56Kc0JQAewd2daQxF3phr0UdDMX11k5YEwoohg4B31L7VunT_cffFo2h44dZDTdipCdbNaqEL4Xx0Ppr1aOb11HIW4LnKizOpaQWgPLQNmqqP0isQsw3u1bIy355T-wfkr9QyxjgUhw0PBaDOovZbtRfc2rwx5plBgmluQRUbPXlu8KFWfLMK0TVZ1zrPAumq2FYWx-WqlwBbYiWEYgJXAU9GNsw83BiMw9f_0EvlNihrsSQj3Fu_yxxULHJLx5tBLoUMGKDBCt4piOZdHPKZvwhajYuYbr-Y9bUhs3NNjiMgThlWHQPtPjnouFPZ8deyJ_aGeDpopGF-UlvAOhDaDlB0bVRYfaVP0kW4tvQBcDyRsL098-xgQjlZp-4FOC72YpwT_R3sAeXwqSa18OHHWYt5XfVQNx_fGnYXweM3n1vIgjQ0LqDj6MEFRZR-J7MDwmF_GJFLtEjn8wp_Xtaec5X9b-uRVjadtMnRmxEwY_5uDbsVhds-64k4l5zLEe_WkLVrU8IfxYpvSjoRQx6Wm_kBK9PGgPf6JEKgKL8OJpJWULCJz64haD_UcucdXNBmocV6kFoM6_vqNP7DZjSSYG_DoP6Ti11KsTg=w464-h927-no?authuser=0)
+![A blurry photo of Moxie the calico cat peering out from a cat carrier looking confused about her relocation](images/moxie-carrier-new-apt.jpg)
 
 <figcaption>
 
@@ -225,7 +226,7 @@ Why have you brought me to this strange place?
 
 <figure>
 
-![](https://lh3.googleusercontent.com/GWtT96KMPFuMInmXqD0SmHyqd0b79Hr48LTwFfo6yxmSksXtPk_DEaaexeArnUQFTlbfMYAVE23LfY16i3LoafPJh8pySx783fotfYRNycoT9kq9I_BfNnR8StrDgU1ryGEBpm6OJqw8qIAy2cj-dWm3NJ6VPQG0GXkF4G1b4AVzSqO5cqnTWt_oKaz1ZfeSgNbGFt5UkVgoVTx8kqfgOOVNP6TMSa34fCZUDq85bVYYF2Q61VRuMY1Niqk4jNiMpgBq5GFkckkLt-dcccKl9AljkxZvBw4AePyz6UdWKF1N75IQXHc90oIH6wF_7AayHrm4s426zBN_JMCKgXpI70Ws-5nCE8snW0EBlgyihSrE-qzQhO20tXu1qd7871ZfUGHgkwGYQdQWzHGCI9GY6kipWWXxzOftBfGKJOzfU6cP6X4mZ0UBMqIYQrflGNh0LzX1IAfwJ4W2HJrcmX---wswby9xaIZwIJS04ZsMN_e58wckG5_o0jWSH9BK1QQD0OWiihPVIOZ8LFWqpp4HJ5htKnnPYiv2lEvb_O7x0bOyOX71zcomgiBxUWUw6jeuENWk77u6Ej137uAUSzd_8_GlU-zsj9oxjWUKKCPsvWgpnloCC5r2mTEgdSsGQ19HpCXvbxfpKjyGNODEq02VeWT_-pKX0PHBfUO2imiXM0KDXdhxOtJO1U380rL7E0eRxfwzgNXQw8HS1ywK9T3KVwyo6XFI8lv2k398zuSMHwQrJXj49-5UGIblGuvybC9FCTOoUqSmo_guEbYbckeHIo-cfzrGeiEV5Q=s927-no?authuser=0)
+![Moxie the calico cat rests on a fuzzy brown blanket while her human watches the Boston Red Sox on the same old silver CRT TV while they knit something made out of aqua-colored yarn](images/moxie-knitting-baseball.jpg)
 
 <figcaption>
 
@@ -237,7 +238,7 @@ My ever-faithful, baseball watching, and knitting companion
 
 <figure>
 
-![](https://lh3.googleusercontent.com/cR_1sPyDLDYcolauk_FzjK_hYmEt8rVALK4p2HKVXEtjvxfyE5XbdKCTJKosras594-RjgPXUTVaWEKwk8KG8H2wxfqjYdvPef4LpiCSPhHSu120hocgSxRI3LD4EwYO1AAWKL3zWYSGC3DS4z5t7TOnOAb5VdjCVd-rVwRU56OGybDN-cUawxeemn2zDqcg5M4a3220nluWspHM1czDF_fW4syGuY5ihTVWtODdE7P54BCPk5DuhGAwyOaD-Sn57ZIACD1Zf3LUHyZdBcByzL0v4Xx4seWcgsnAxIr0sZIXFowUTXCDOxCOCPBmK6Y2bA5PnNUI3QGKPbI-e5njYcSanjO2wRT3w0NcqCPPHWlohPWDFiKYMPk_wcXO0nyDU_cJ9NHZ6lkqYeFVJJmRl1K5RD7Hysef0IWG59qm0Ez7FTNGzAxdhBQX8mPNvYgXpteF296rt8z4jAGxAvfm2vUH7BP4SVArZi96A9_Q8F9dMh6j_3UaCmiWUj2EuIIFFzPXNEV9h2heqRN2n61sU62-0AaYuI4w0kNoCXmp-g3y1SBsT15_RMLek69O_RCTYliCYyuVXIEzwKwbsRY8RyDpVsTRkwz9WjhWTjvkTV85cEPn_gG2eN-dNI7K5enzjeWH6Wl4A-KQmmeswI3NvCnYRkSbZG0F4gpZB7Ox_xHy8bsXmFjCUfk1lxUexDR29EDL-xX0RQZbDlw7eM2fA_jHyLpWJgvdiRJJxiakRn-03tR54Lrf_GfmoUbtId5d-IYyBcxbIIPlYa8OTiBEFToyhHBB1WYb5Q=s927-no?authuser=0)
+![Moxie the calico cat rests snuggled on top of and beneath a couple of bed pillows looking very calm](images/moxie-pillows-2.jpg)
 
 <figcaption>
 
@@ -249,7 +250,7 @@ Pillows are a cat's best friend
 
 <figure>
 
-https://youtu.be/ShX6iRkM\_7A
+[The most elegant way to bathe one's tail](https://youtu.be/ShX6iRkM\_7A)
 
 <figcaption>
 
@@ -265,7 +266,7 @@ Moxie and I enjoyed a pretty quiet life together for the next 6 months, before t
 
 <figure>
 
-![](https://lh3.googleusercontent.com/z6sYrtz6r2UjWkTgG4vq3LN_FeGaL6KOqnOu4F5rPqb-jEbGJvZnPTzmYhZXixeAJGJpkYxyAtiITvitn-FE-zwWSTHw8_43_svue-uPFvZWnZyt3Rc6MCfnghSRqRH9sU8-e_TKwxLjR7oaeJE7CLOvBDn1H4fL5Aqzb26fl20KiVqVBVjBF41AqJH7161soYdDOvLLG4KE1ssRtxWKG2ePCHOwu5DjNk_bYGQb1S4WPoUPccC7HktYQFUknrc1Rg279OWRX_OkXcUlZ4AZ7AkRSxDhasrvVloZJ01jzEsiz_QTL-ow9WHa9xMl7xca8o2yShHpD_PXf9bQh8YeepXdsh-pDQzYaiQ7k_Gh2QQOLX-iFEBmQxzI8exwm6wy-Rs8CSTxWjzZONnOFCe0mPzEe6zOkSTX-4zvb2XGqUmFxIyrlN6eV7z_pfy-E4BnYagv9V9o8L-P9sqZQCPVapDn_oYybog2bJqedkZAmfkzSHYdky-V1SbZh6qLtZ2bpQp7M9hUT8IULe_r8hWNqL2tzEhpJFf0tVpeAwzC7FTtiD1nXspwvB5EYid5if4FX_m_Q_V6prJ5B9-okG28T4tismKIgZeFkodTBL-0RjnTf7b0LWCx4aSl0DduIxjuB9l-y024UG2bGKhB7L1AaS0LeRU6fORVBqxZoHvYENYB_80mceaz-aup4q7oaPNL0n8Ie_bN9u39VJssM7k0SPkQ03uM4Y7Qcq3nTzHlLHyRhsOJ4JWZaHHhPvieWdcozSNnDod8aQ-RbpQ5GYcxXw34f1gYDlQ0DQ=w1560-h780-no?authuser=0)
+![Moxie the calico cat is in the middle of having a bath, her leg just lowering as she looks over at her new sibling, a tuxedo cat Kochanski. Both cats are on some slightly-rumpled bed sheets basking in diffuse sunlight.](images/moxie-bath-watched-by-chanski.jpg)
 
 <figcaption>
 
@@ -281,7 +282,7 @@ It was a challenge, with Moxie occupying more of the cranky-elder-beast role tha
 
 <figure>
 
-![](https://lh3.googleusercontent.com/HGGUPBkAJRH0AgqlZahZ3lPT42bx8F8tnJ_QbX_GPD4iccmfzzea1kU_I9_xSJrWPAX6gBzBvXW0kU4DU4t1ntO9I1-GqC5S4bWljpBmwKJLlg_3Ou5_LmtePhba0AUYWcZOj97Vzp4N2SAkiiTAfjZuppXr9pZhIF1D4Wk_1dbT9O0U6TIYKLcpx9UyDaC4au4WdRRMry1QpYXW3Ru7AaCujXg5C2AN7CpMBlfH4_q1N-dRjK2cWpMVpHF0bpa0VJuouoteMxYsa4XtnNET6FuP5LLs2otC_EfWo596pWIC3Lqp1dr7xNrJ8I40MKVsBsxRhPLako0fB3-EF-VqCdMpbwnspnp6R5dHSCnmq5JSf5mWIQBtnTxgvnqJUJFHGODaUzJUhe9S46_-AI7xkiUudWzzmOvE8HJKqidsLz3jlbFcpqqEZKTlNSsnDckMaks4dOoudOsvXKOVLksEFhL9gqcurqNLQDpiZBoXzmx4VFPRUC5qWAzcmUo_FN9gp9EuVeDA9oqf9Yl4x3Qx_rRgSjT7z-FWg1ftiNNF1k-XV4SZTENBAVf9CLl2i7giajazwjTWjx3O0SQe2RaGL9UAsYesPLPWbiUaW4X39EQi4u3MPkyAhOhTwQsXUEMDspA9TFTlbQGsYx3fp0yRZl1K1PFGk2GXbRIrzUb5VrF-Ewao0mAyBrtukBWf3acguuwtJRbwtJow-svoSCzu9sp3a5lXIaDoZGatJtGM-MP6Am3DSGpOyk4Q0GWjq5qQWj9y6U5pVsFC3hMnztgcoE500jnw5vAlow=w464-h927-no?authuser=0)
+![Moxie the calico cat, and Kochanski the black and white tuxedo cat both rest on a different, slightly rumpled unmade bed. They are giving the photographer some serious side eye.](images/moxie-chanski-bed-side-eye.jpg)
 
 <figcaption>
 
@@ -293,7 +294,7 @@ Lots of side-eye, a common Moxie mannerism
 
 <figure>
 
-![](https://lh3.googleusercontent.com/Vmtud1sItVF-0Btq3Me5os2OKBMy9qINCgm1dqoBkuSAK8JVqJjxkzVM2f1JWh2jADBEAgMvqVkZgbNUD9z9hioL2bimgDsVW_hXABjMtHzsEBEeQQ7mCuiLpTXj8xhV9tkq68Jgw8IVX1kB2uvetZt8HxTvJr4cwBYXEsor6QNz0H_4x5r17CL05_B_7PQb57RcMhcrGyboQ4jQdQMv5nqUjJwkURxQhZzJu3ldw_lWbPN_CUDxlUFCWIBX7ZhNC4Fq5X06pj3NWhDn9oVk0cj7AekqpMyyHeLs5V0hyAKCQWoRAuIgBzjWjZk5096sp0Mg6XEqRyQvNSXgz-lsLGD9aCM8L11FbKqs_q7ZK2fsR7ByqZ26U3k0Py9Y0RaMyh9aPur7ZwQN7msJYOmIesJMy8aT04WTRpBQ36TnuMUslP3wWk9_2nuTz4LnJQIbBD-Vcy6TviW-t08N9v0spsDtA0uRWYVCcTfd8Z50eXzntpGjdnW771FAWVIQ3n2fN03I7YXQ0l6-ZcUe6O20ShEch-gqIiux0BOm1EjsANQn22fan0VDW9iMgkmlnfpg1zABzwe78KPXtLXO68oydt1E7Dmkozdb26gRafrWjmjuBB9-b4DYXBzgWP-_Cp7qPWBJHFLMVhhISlfrW0GaRfttFcdM5mkknwwk7H44SREn-TWBCloOaQSii6rGLXUdwlAJDoUjZi-1jBNLdpzYthBXWdPlKmHEeMClw4m1JB9tI-mofwoERj1TyUbPRnQi68OGV5VDFUFjI2SXpWCrVrwKMMp2YXMb0g=w1560-h780-no?authuser=0)
+![Kochanski, the black and white tuxedo cat faces away from the camera, focusing on who might be hiding behind a sunlit set of vertical blinds. (it's Moxie)](images/chanski-blinds-hidden-moxie.jpg)
 
 <figcaption>
 
@@ -307,7 +308,7 @@ We made it work in the one-bedroom apartment, and then moved upstairs to somethi
 
 <figure>
 
-![](https://lh3.googleusercontent.com/piijoxoQ80pa-IEml0rN7WU6IZcdGVKbzughH0AKw135UGgCL0n4GHIXZYKyzwFtcOvSYRX4WY37Kt9HJbnrUmk3n4DlJqRayDyf9rUxcNiijiQ-mxeezIDoI2EAn85wemYOTr-TgLb4caVRYL4VrkdhGkdf9wG6Ppj3yoaBDkdHLXDfbI-XDmswE542InCHvoOaLCIXz5hw4SPWPuBmi3LyjJtCkyIgCoMQ1C8_8uorgKo_pubrOIfLoo9zLrVhMtLN5MZThF8xls-M7r8jz1nGly2ELh-q6BFMFLa1EGa_CCFlcP4cDN6tk91VEgeQjvuq1Lm1I5_yIB0ykGpxdWnen7jezKoYaMRbrFHdw_pxK-GaLREvNOkFrOnSIbYn_2ZQ9L4I1HhcHSLtrKYilTUrC1qPQ394kFu_9biewzFdiEIFLreBLBPlzDssWgeuQ2iSUmYtiWLXmRAjHIG2ws4XaAw57vpbjZChRiY8VYzOgHWHkJ7BCpUfkVlTcfbZTy8fGDSPsAHDq75hCrC_CSxXAJCKUVVnyZ4fk6aWInxoFrnYANwZ76vtsddxoYs9LyvQdcbPBVOQd1FMryfRAEFUbGIMfdqZhxVy-rpOB3j42JY3ZATCADsGAFh5Z45t9g2W8zta7PBeDh-nJS_smMCtqoJzyIleBBVfQqsAjoOX1LrJfBBVUTGFtZVkVRfzySf2VextsZBm5UvnaBXeYqOqNaN5CBDhi9iHXANfWoWLvP7t2ahxVUFUSs8MEko1sxd5VYYeoZdlgSgBbTKP_3S7LByZ4YhacA=w464-h927-no?authuser=0)
+![Chanski the black and white tuxedo lays on top of a small cat tree with her left paw dangling down, trying to convince the calico cat Moxie to play with her. Moxie is ignoring her and resting against the bottom of the cat tree enjoying the sunlight.](images/chanski-moxie-old-tree-playtime.jpg)
 
 <figcaption>
 
@@ -321,7 +322,7 @@ Another 6 months, and things changed again, when I started working from home.
 
 <figure>
 
-![](https://lh3.googleusercontent.com/-n2ywx0Abi-jC-89ppPlNTiRWdMT3PtU6Pp8cwRu9uQmnoO2enQlV6Jgl7qaV8RsBoXzv1vQonmktMVF-udTcpChqMb-iL9haAAh6NvBrWXxgWtRFQ7ySoQe4bu0pc0St_tIFdCQHA_Q5qkhJwBPGBZZCY7mAk2-WF8_dOSRUava7Mm5vTZ0YvRAv0Z5PQxOdDq7gVs1Ygg-TwjwxTj8IMRRRCCRjElKdZb5X5dfAeMj8DmKSj5QLcmRPMszZQSHLy7SRilu6sf2bkrkUauufGmjxR9edcvoSN5fb4ZiCb0skogkHqcmt36hdBubi8ebYbJX0vsonATOo5DWdm-__5Amq5xmdpNxq-nxCmK41rIdjSfnib1y5HY_I1wRh0w9l14StWnW1Bsz9Vw17VZjUQuPRwjNVUS6n0voHlbV4GQsYYmerAVZFsv2IAareT5U96umDJwjlpJgBfV-rkEPLjULZHCZGH5nXcYmPFu0OMkm6-bXaWwiRbe9B4fVD63bcsDUDM5000ygkMYFvQHMDMcn9OFgBKCiC8jwtKLMPeMEHp_OFDvsG9IueWt5txGp-GFWYi_sCYh4V_-lXqXVQQTKQdGZsLwuEEOoB2NHR6AFwzhkGAwCv0hZ8r9BfnN8MCEEgVzxvXn9ZuHiaxpIuv1sW17TFN5EMfEV9BeAw4ZGPjLl1xQ-FqKLKRwtC9WlXRYGWJpSy7MDcFPiyun7FXNrp388EG0IjPLNpqybnmreO8ZJZeJSJNk5P3ECLdk8MhlmqCZ8fbLRs3B1CtJ-jmQTsU7Haay-lw=w1560-h780-no?authuser=0)
+![Moxie the calico cat sleeps facing away from the camera, slightly impeding the efforts of the photographer from working, as they also have a black keyboard resting on their lap](images/moxie-lap-keyboard-wfh.jpg)
 
 <figcaption>
 
@@ -337,7 +338,7 @@ My desk setup evolved from an uncomfortable seat at our dining room table, to a 
 
 <figure>
 
-![](https://lh3.googleusercontent.com/X5flTt7sM72gevpfQOk74Ik85he5cWu0tk296RNV3LysqQyYL0MKX_fG-RZzU67f7agMIZY3DPrNm8EDNEJ8qy1n_KwZ3NYygN4pE73gKd9DnUxveptp1noR8Orx6ChtwqbfhtkS7rxt47WALiSIsLSZYM3XKRkOkEgbCQDC6OH7_g9aAsB4IVw0FTCuECw_eXtA8wL-Vc5lqgxa3gx1lHc2D3JdplDRCkvoRb3RVS41exkew00W9NZbLuGuAdMhnleYbcKEi6H5XfwZjrl_kfpnHYQZ4hX8VV8yzFgiO9W0joOBG0xScpLcywhch7wSB06dTh4L9SMi0EvvhIJd4O81Q7elSSGR1LOHRRqsTtiXChO59SRE3TRytZBpXoikOgn2pj_zQrB6a-kMM5EhccMfzaFzwcZ2HzkpbY8puKb9EVxl70reoOxgmFJbJqVhi8565aWDwbtLpEcSNXmBciF89474J5Gw2ZKcC6_4SzBXWD2_9l7Q3F7x9_3OsQgF23iqYYgOWd4cID9LnwEQlKv-5kDCUwxf4r6cA_kklYZ0UIpey0MPUNtqoEheP_ZhHAhhMynj_o4mhzgC9XQH05rNkQtel3ieg9MMPhDCJmiF_3d9AWNZ8-xZHCmr9TIQX0XVn2ZhYhFSBeJFvmLm79LN_vWVscY9bliavGN6GZ6fyitHK0bJoWZ1FOaQDURJ_DUc8kDY1WCTX9PRxGZGWxvYxzB5dzVifbtN377kqQz6JQQtvhQYUs8qn76fCP6UmMBYvFQREKPODAkm09wSj8q_klmcdLoY4w=w1560-h780-no?authuser=0)
+![Moxie the calico cat wears a teal, navy, and white sweater with trees and snowflakes. She is resting on a blue patterned fleece blanket on the corner of someone's desk, watching them work](images/moxie-sweater-desk-wfh.jpg)
 
 <figcaption>
 
@@ -351,7 +352,7 @@ After Ivory would leave for work, and I would settle into my routine, I'd hear a
 
 <figure>
 
-![](https://lh3.googleusercontent.com/SB0WJUoWbb7mCwZxZtND12bJBf1TB2JH0cf1ujwvVZaHo1estBt7g6rlJ9kyzYwPgrrFxdXKarnvE9Dqi28X314_AmtPqVM3SilJvp3gn24Uqc682juHzCCC6h8qjY2ylXDxCnJudV26AW7BM1m7tUxX_jqpGjyMHMr9uqEVTwL4Iy1i3gQ_vaTw_TzaOCqihMCSKmI-_wTZTZyU6tG7Gu2_QKF0UwIlT781GwNhYZ8t6jnwPN8_BmKQXbWj5oo6F3sg4bui8Mji9m5sLbvid3uMqN-JV7zz_FV6JxhrVehwp13Gctk5zLH532X9i5z3yedKqYaChk8CYhh5BQomA2yT2E2C3Skufb12KezS2Q5Fd05wgyzf9UYQWVJh4jM8Ad4-mfNvnSBooeX6iyb3U2yjOPQBD0HPHIJjssgDIa_b68siP1h17Lrj4mYtRouj1fv3hIw7IJ6bnkV84rA3nyAk8pbdKb7yDtOL41tk4DBA-sSlNRWfCD1N34QDSTqtOMWVRdA_7mUC9SCRFmkSTGZN56Og6Tga_EdkALHJjJHNJD0x7tHv8bcdobt03aGObquMKEZHUbAmjRVqaKPpa2JrnZtY6w2hBK61FjVQznC24Tre60s2XNKd_MVGWlNeoWbYNlVdWEicUSZA_rDAtsQU4fpnKo30z8KvV_xZSF1OF9Yrtu6oXGz1Qyo2k57mJJFfQFfvoEiKGH00iOVKbja66AD49Qj389s02iUZN6KIWsAijkdNFJnEtudd-nb3k942YNGxcN-S04ePy_X6XAFOckdw6jHmDQ=w1560-h780-no?authuser=0)
+![Moxie the calico cat faceplants into the desk while sleeping on the blue patterned fleece blanket](images/moxie-desk-faceplant.jpg)
 
 <figcaption>
 
@@ -363,13 +364,13 @@ Faceplant!
 
 Of course, I kept changing my desk setup, and she sometimes found herself out of a space to sleep. But, there were still days when the couch would be too cozy to ignore, and I'd spend the day working while covered in our daggerbeasts, which wasn't ever anything to complain about.
 
-![](https://lh3.googleusercontent.com/rzSw0n5XXD14fV6kYxiVnD6sKcWa3XPIcknXjPHQhTzlAwQONgXt00ynygIAVea4smQvZ9iwZlOXYXo0Q-VTK3iaQ9mjCo5UAyFSG_2epTnJDXxaAxXKFERFn5-Zj1W3M2KxGlb3TucKDvmZFlCdRMbuofINdQZCnmZj35Xq9rPf1C3mRAkVE93i7ueW_CEeF9INvA2Uqfb0LiqNaGZdq3RSJQiX_h2edEoL9FQwm7IK5-uqdqhZPrxIDhozHkjnBr5TU9KHhXAM79F9MCXhisAWfW3uD5CGFD1ijQRkk-6O58GYbkuHeBJvPklPMxk73eguE_VSNqyBGUa7lSNJEhyj2acaQprEsfpe3yUvzdw8vWCH9FApahgvadLA99AIvdgW7_y2fqD2gEp9GQq9mEBfaxk-Vm9wihu1nc9AmbWc08PZrah8wD-YBmoK_NQP9tFYJyS_ya3HfH2CYCnT7LZH4GMspqkQGzp0t5bmbDF6e7QMwauUTCzFxaidH0Tv7zMiSlA3IOtR-TFsF9PZqWMrQcOCrL7b3Qz3-BLf9bbRkMXyZPM8241PigER7czRjaa6R5KGTUV7D2LYqxOyrWGc2FUIsCgzcENgRZWcKgm307O7yr63ZzF69CpQRkHlNIGkdBM2IZaGrW_oIbAPBAx6AIJDe8Izy7aCFaUC8w9Dwnv2tUfJVQnPo1vLhehGX87MhE1t0uA4qeDRoGgDjKG3eNss1bcEHUhmozMnO8eb4gpeZiKT-oeyj3QuxT78tQg0U0RFgdC6d-G8gLI6HGP3BRJiM08xMQ=w1560-h780-no?authuser=0)
+![Kochanski the tuxedo cat and Moxie the Calico cat sleep on a blue fuzzy blanket while a human tries to work from home](images/chanski-moxie-wfh-lap.jpg)
 
 It was only in the last year or so that Moxie really did start to slow down. Fewer chases around the apartment, less interest in toys, and more anxiety, which meant she started getting a morning dose of Prozac with her thyroid med. She never lost her desire to eat, although, we did have to split meals up into two parts, and start keeping a bowl of water in the bathroom since that was the only place she was ever willing to consistently hydrate.
 
 <figure>
 
-![](https://lh3.googleusercontent.com/pw/AM-JKLWYQE5To4Sqg7XAMhVB4Pvesbo7ZHMumaxOfVxOOHwRb-bHvE_0DQ5vkpG_Qz9KTx9yIalEzgPDG-ZFDBS4jjbM-RzaapL5DOvmWs3Rspir2-UYSnpMWSV0G8L14VCytet_p8n2Hz3NcdRXPgtxiFyNAQ=w703-h937-no?authuser=0)
+![Moxie the calico cat rests in the Kate's lap, cradling her head in their hands. This is their last morning photo together.](images/kate-moxie-last-day.jpg)
 
 <figcaption>
 
@@ -383,7 +384,7 @@ It's hard, when you know you have a finite amount of time, and you know there's 
 
 <figure>
 
-![](https://lh3.googleusercontent.com/P7nlx4fIiKrmtjYvaZHykypAyvn2s0itoQxAgjGVKQK_Qyo1_k-VdUq_B3pY8_xT_0X11HQGMwlZbOjSqPHx0WJhvXmMKuMPBvO1LkZG4-LeYgZMa4-BHaWV2QS0N3T2aBCYhtmcyZeghV4LzpeEehm7GM_RX5n06hDFAT_b0ytBePRkoyjyD2crIkKJ21IFTL9j2758tUtq99zQiK299OVFfnO-Cw0bYajQIZ-w2lkJmNb763j3d6cLSyetdF6dlaYollwpSaR9l023zREyXbKWtIA_Bb_p81v6cqp8e0Uy6DiINcKhkjENK6d3SM2GdSoUBKOLONOQ6XVP08M71MIYyq8hCpcaZ_nZ9Kv5AV0BNSTvWFdu0A2WLSBLmB8vVl_qpYNR5e0vsv73jAOErf_F-AUsAB2fnweFc8UU7HosZSDuxY2U8QYkE1FEQixEF1L7tgOLhGr3uMsrBB9tgcOJ6-XuF_hO0avd5DZ4rDRWHhsHylFkYCsgybHyiP2Pt3NgJX88De1JUqDXu72cMcUbo8dnfOdqFmdvqUG2CxXOo-8JNvpdXX7NFhbPIjTqwSJHTl5xqC510hTObpfnxOsFFamHaNVr891RvvAqkrBYjxEeWMAt8Q_L3CfoGubUjXs7_60L5ZQ1K1y0O6qtxa03jfpzEa_CyqlrpNtNLJK_iyxKzn9GhzKbhVJQXzS61dSvF4fS2ZiX7TCpvvol1kCDyGbKRT35GofSWMnak0S3iX5nhdwWUvJM4xp73JxavVoiqx1YIUjOzoa7GgoxJsHPYF1INgyi8Q=w464-h927-no?authuser=0)
+![Moxie the calico cat sits in the lower level of a tall cat tree, looking cozy on a warming pad](images/moxie-cat-tree-bunk.jpg)
 
 <figcaption>
 
@@ -393,7 +394,7 @@ This is my spot
 
 </figure>
 
-![](https://lh3.googleusercontent.com/D08NEDUH7qVJSVfTyw9tiOS5KmiG2IaPrq0EcPUiWA0CPJRQhBS3gcwHECnjnxsuw_2shWuN5jTPMGrkah8Is3QTZ83cVNT9dIullOKZ_mUU5D5pAnPLqB-slPQ0FaqV8hnXb4RVMIj1MIBujuxBEPyrq9fhDU3XWBF2Wa3Pz_6Y9ooXrwVpTAtshosAnOp03CD1HTLtmJ3xhHFx-Q5kC3RSKfldrxA5-yVOf2Gv6jVLfvOG1sFy7KZN6wUC2jNzrkoqEZOdSeToG2fVipIevwFtw-RbCfyjAA5ZG4z3vFSeDEK8hoQpGOuR4LAR1Tbdn7dbwbIb2rKVH8jSL0ElJgwyL5MGeESygauEBqWJK-ZKzogLkQCTr_ywUpDu9KU1h6wtldrwIshPRHjU97_xxZYjCXgnXlFu-rOYkjjGQ2y9cmyQzqUzdLV45LXp1C3W4ehOWFNuXJcAvxkWHcFJIXxong_L5HoRpq2kYEJvYm1t0M9-42Sx3hEHTPvpvDgIBUoONJ_mKVRq1VvSjfJFxHNJXHBaFiqpsMm3TEyn9RdoLKIcC0F3mQUEYKJP3yoz3kUoy1E3eluH01HQjv6nUu5hz9diTTB3CvEtlxNuTqFXYcH9_Azh_1T9PPcGqnEacMXLc3xxiasg5E-exRcBYB9YjdJSRnZarOd4bXSsCtyUvXR_xc2ZqEJf1CeaZGvM6SzEmq2MAD_RjUXq424HMDws1NE91WVw8mzPpq-6jBrOhcEyOac20vUKTxKccluumE6rssLOJUDtl7LPhxPMAvmlJmIHm0t_YQ=w464-h927-no?authuser=0)
+![Moxie the calico cat rests on the same bottom bunk of the tall cat tree with a warming pad. Her face is buried into the corner of the bunk in her preferred faceplant.](images/moxie-cat-tree-faceplant.jpg)
 
 Nights were long, in the way that only insomnia can make them drag out forever. But, Moxie made the effort to climb into bed and sandwich herself between us, which I treasured. I think it was hard for her, because she hadn't been restful in that space for a while. It seems that squishy pillow-top beds with memory foam mattress pads are a bit uncomfortable for a cat with old bones, and so she usually only came for a little while, and then left again. Those visits had become pretty sporadic as well, but she was there Monday night, and every night after, until she was gone.
 
@@ -403,7 +404,7 @@ Our last night together, we got McDonald's, because Moxie was always partial to 
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLX8IlmJV4SQnmdxsIx2vENNG4v-Tr9lsXQ0OZLMe-QwLj7GA_sWhhUl_pxj5A1oX9jG82uSx0HyC1hQiVcih7MDa3q-xHy9ILZEfQNagdKTueZ9NG2CNY-chQul1j5NOnLBNiGBS5SNbAfBG146oO6ZrQ=w422-h937-no?authuser=0)](https://lh3.googleusercontent.com/tj6PxsYAxBvsSIkErOaoE8GwuK8y_qdf9XVzwqNknXUYnk-bJmq-vyd2HzZAZcatZvclEkzY7Nqk7HmgbJeqKYzCOdb3bXt3oTq7jfdQbyYfcw2H4SirBpQUOL3PMWmdY9-Ip6KbQ6jesVjlBQf2hqD65OUq-MPC5Pbd11YgKKivABrTdvBwmb-IkMJ-jBSfFAwLnhmZkNOkTQ30oxOWjeA7GKqL9ieK78Tszpf5oUZKJVX3yNWsdVoHm7BoftU0ph_CgHcYVzCmf_wWVvnEM9ZvC6BBZc2YW7vA8nL9rhFGdoPLVG-9xWVMlew8oc0iIH8QDB_Vzg4XlNS7YfQYwnwka6Jd8Yq6uMPkYFOAtpMrZHtpm_T64oM9b8-BGdiy7opqzawwVshnO0rfFRCSS-jqwAS2ouxtG7yP5k5xEGBgFgpoEOfY5HH--46Wq_64IdgFcjLOu8NSNOndkkw1rptb8jBWTUGKoyXUSSEw6KOerKMRTSX3DEayh83l0kgg0oVjDYv50xRL8C3I7ZokISvAT-1Bd5qCla7SG9sPgMKkcSOZ0_hsnTHXD9oCGD7m6cVag1dRAjPUTV1TmaYvxEzxdzEf95o75cuNiEyW55jFBof-BhwwSug3MXVI1OfPGQzZw1dTrYExPUKBRyE_7HfnfcsHUfqaim74xe_kJgVr1KWgjB4yCx-gLVCZQuVFRzumkAOW6fOtL91bti7V42adMC8nbHa-wGM_tQxsbNZzhrbq1NYoms5XGVTVz2L-gkCMC_A4BpSqu2hF-hn8nhN2BoRjfrTcdQ=w418-h927-no?authuser=0)
+![Ivory smiles at the camera with the tuxedo cat Kochanski and the calico cat Moxie rest in her lap. They may not be co-existing peacefully in this moment.](images/ivory-chanski-moxie-last-night.jpg)
 
 <figcaption>
 
@@ -417,7 +418,7 @@ I keep thinking this wasn't enough time together. At the same time, to ask for a
 
 <figure>
 
-![](https://lh3.googleusercontent.com/pw/AM-JKLXP6K6M3zFC3hQ7I013VKd8jm7NZlm-4TYgHU_PvEhQBZ9YuLn_GhOloVY7jNfaaz8mVpmRSwxJaJUMsH8GEEwM1SzZX6YmbjcpIVJ6395_9I-62m4xVZRz1tyxOG5ZEvb4kF4Gs8Ey4VY5yN5mcNL9tw=w422-h937-no?authuser=0)
+![Kate and Moxie the calico cat pose together for the camera. This is their last photo together. Kate has dark brown hair and blue eyes, they are wearing a black shirt covered in cat hair.](images/kate-moxie-last-day-2.jpg)
 
 <figcaption>
 
