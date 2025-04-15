@@ -56,7 +56,7 @@ Looking back, I'm not sure I had any business being a cat owner. Cats maintain a
 
 <figure>
 
-![Moxe the calico cat lounges on a dark green and white plaid blanket with part of a computer keyboard in view, she looks relaxed and showing off her soft belly](images/Moxie-first-snuggles-2007.jpg)
+![Moxie the calico cat lounges on a dark green and white plaid blanket with part of a computer keyboard in view, she looks relaxed and showing off her soft belly](images/Moxie-first-snuggles-2007.jpg)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ Evening December 9, 2007 Cuddlebuddy for life.
 
 <figure>
 
-[Moxie and her wand toy](https://youtu.be/juQYVmxeQSI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/juQYVmxeQSI?si=Tj8T6FUWa2NBQioe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -150,7 +150,7 @@ Sylvia (tuxedo) and Moxie, unwilling cohabitants of a lap
 
 Moxie seemed glad to have a sibling, but her excitement wasn't ever really reciprocated. There were quite a few angry chases around the house, and a lot of battling over food dishes, with me forcing my parents to "upgrade" their cat food because of both cats insistence upon stealing food from each other.
 
-[Moxie and Sylvia's wild kingdom encounter](https://youtu.be/Q-RapG8Vt7U)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-RapG8Vt7U?si=QVooFYBwPb35JL2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Things sort of settled into a routine. I got a new job, commuted to work, and we stayed with my parents for almost 4 years. In that time, the screaming chases came to an end, and Sylvia spent the summers out at the cabin with my parents, while Moxie and I stayed at the house.
 
@@ -250,7 +250,7 @@ Pillows are a cat's best friend
 
 <figure>
 
-[The most elegant way to bathe one's tail](https://youtu.be/ShX6iRkM\_7A)
+<iframe width="462" height="821" src="https://www.youtube.com/embed/ShX6iRkM_7A" title="Moxie&#39;s very clean tail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 

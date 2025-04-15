@@ -8,13 +8,12 @@ categories:
 coverImage: "image.png"
 ---
 
-Week two of Blaugust has begun, and it's supposed to be an introduction to myself. [I wrote this post](https://peridotlines.com/2023/06/19/am-i-on-a-rollercoaster-or-jumping-off-a-cliff/) a little over a month ago and that's probably as much of a deep dive as I'm willing to get into for this month. Instead, I think I'm going to take this introductory week to share some things that had an influence on me, starting with music.
+Week two of Blaugust has begun, and it's supposed to be an introduction to myself. [I wrote this post](https://peridotlines.com/blog/2023/06/20/am-i-on-a-rollercoaster/) a little over a month ago and that's probably as much of a deep dive as I'm willing to get into for this month. Instead, I think I'm going to take this introductory week to share some things that had an influence on me, starting with music.
 
 <!--more 10 songs that encapsulate me-->
 
 <figure>
-
-https://youtu.be/SXKlJuO07eM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXKlJuO07eM?si=yVqVF9qbk3H8mbW2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -32,7 +31,7 @@ I'm pretty sure I tortured our entire neighborhood as a 6 year old, by climbing 
 
 <figure>
 
-https://youtu.be/Hij\_QxDkIJI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hij_QxDkIJI?si=VryXOwY6ummkbwEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -50,7 +49,7 @@ Teen-aged me listened to a lot of Celine Dion. Part of that is down to _Titanic_
 
 <figure>
 
-https://youtu.be/gOK3rqVgN2I
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOK3rqVgN2I?si=p5vttw4taHM35xrK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -68,7 +67,7 @@ It's Adam Sandler's fault that this song is in my music library. At some point, 
 
 <figure>
 
-https://youtu.be/QRTNm6GLJYI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRTNm6GLJYI?si=VbUdaBbCIKqPFpMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -86,7 +85,7 @@ Baba O'Riley - The Who
 
 <figure>
 
-https://youtu.be/zi6keFpm-BY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zi6keFpm-BY?si=6Q32i1CZOIP9qno7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -104,7 +103,7 @@ This song found me after I entered my _CSI_ era. It is a bit tied up in my inter
 
 <figure>
 
-https://youtu.be/-CCfIJgVM6M
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-CCfIJgVM6M?si=yp9gZ7xKuvwjSNLq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -122,7 +121,7 @@ I don't think I really had a great appreciation for this song until it came up o
 
 <figure>
 
-https://youtu.be/lCdeL1q-ioo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vkvsFv2eNNc?si=_n77RfuwmaOlmXuX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -140,7 +139,7 @@ I love the whole album this song comes from. It's kind of a toss up between this
 
 <figure>
 
-https://youtu.be/\_C55DeU568A
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_C55DeU568A?si=ApTIL6VKh8m4kFoW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -158,7 +157,7 @@ This song made me pick up my very neglected guitar again. I never got the chord 
 
 <figure>
 
-https://youtu.be/FLkj9zr0-sQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLkj9zr0-sQ?si=V4JxanEks4PThVil" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -176,7 +175,7 @@ There's this great podcast called Song Exploder, that interviews musicians and g
 
 <figure>
 
-https://youtu.be/ESZ2MN7dBRI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ESZ2MN7dBRI?si=8X4pnzq7hAhyIdny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 

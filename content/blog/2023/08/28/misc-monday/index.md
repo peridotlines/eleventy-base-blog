@@ -19,7 +19,7 @@ It's been a while since I felt this way about a Monday. I'm sure a good chunk of
 
 * * *
 
-I guess at least my Bullet Journal has been on track for the past couple weeks. After my last [little rant](https://peridotlines.com/2023/08/09/the-bog-of-eternal-productivity-management/) about it, I spent a some time looking through my schedule, figuring out where some things were falling apart, and it's ended up serving me pretty well for the past 3 weeks. It definitely helped me catch up with some things I'd fallen behind on, which is exactly the point of it. Part of it may also be down to getting a new desk and reorganizing my workspace, because for some reason that sort of activity always seems to give me a renewed sense of purpose. I'm not sure how long I can keep riding that wave, but it's doing something for me at the moment, I guess.
+I guess at least my Bullet Journal has been on track for the past couple weeks. After my last [little rant](https://peridotlines.com/blog/2023/08/09/bog-of-eternal-productivity-management/) about it, I spent a some time looking through my schedule, figuring out where some things were falling apart, and it's ended up serving me pretty well for the past 3 weeks. It definitely helped me catch up with some things I'd fallen behind on, which is exactly the point of it. Part of it may also be down to getting a new desk and reorganizing my workspace, because for some reason that sort of activity always seems to give me a renewed sense of purpose. I'm not sure how long I can keep riding that wave, but it's doing something for me at the moment, I guess.
 
 * * *
 

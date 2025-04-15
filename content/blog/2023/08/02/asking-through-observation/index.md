@@ -7,12 +7,7 @@ tags:
   - "dailyprompt"
   - "dailyprompt-2018"
 ---
-
-Daily writing prompt
-
-What are you curious about?
-
-![](https://0.gravatar.com/avatar/f1d07f56899efa512b6baed34a81a561b0b1a4589607b7ec871a574921ea50c9?s=96&d=identicon&r=G)![](https://2.gravatar.com/avatar/b72c4f22b4ab8298877891c95787f02e565727976098d9ccf97fce2277dc29e4?s=96&d=identicon&r=G)![](https://1.gravatar.com/avatar/d530740afa22dbd1b14aec00923a6fad4b8eba42559cc0e720c285db028a5f65?s=96&d=identicon&r=G)[View all responses](https://wordpress.com/tag/dailyprompt-2018)
+>What are you curious about?
 
 I don't think of myself as a curious person. If I'm being honest, I feel more nosy than anything else.
 

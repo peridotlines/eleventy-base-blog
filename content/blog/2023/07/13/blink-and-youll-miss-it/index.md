@@ -22,8 +22,9 @@ I think the twist with all of these memories is the finality attached to them. Y
 
 In a tiny, slightly-unrelated ray of sunshine, I did realize today that sometimes the feeling of a memory changing isn't always a bad thing. I've been indulging in a lot of nostalgia lately, something that seems to keep me just a little more grounded. I was listening to Imogen Heap's _Ellipse_, an album I used to listen to a lot, and the song _First Train Home_ has some lyrics that have always resonated with me.
 
-```
-Want to get on with getting on with thingsI want to run in fields, paint the kitchen and love someoneAnd I can't do any of that here, can I?
-```
+>_Want to get on with getting on with thingsI want to run in fields, paint the kitchen and love someone_
+
+>_And I can't do any of that here, can I?_
+
 
 I used to have a lot of longing when it came to this portion of the song. I was unhappy. I was lonely. I felt stuck. I would hear those lyrics and be so full of want and sadness that I couldn't help crying. But, I heard them today, and my body reacted the way it had been sort of been trained to, and then stopped short, because something had changed. I could still feel the want, and a little bit of the sadness, but it was different now. It used to seem pretty hopeless and unlikely to me that I would ever answer the desire in those words. The person listening to those lyrics today isn't unhappy, lonely, or stuck, at least not in the way they were years ago. The sadness and loneliness right now are grief, and the stuck... well, that's more trying to figure out where the next step is, instead of feeling stymied or waylaid. There's also a bit more hope tied to those words now, because these are things I can want with more possibility they'll be fulfilled at some point, especially with someone I love.

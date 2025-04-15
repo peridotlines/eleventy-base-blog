@@ -13,7 +13,7 @@ tags:
 
 Here we are, week 2 of Blaugust. I'm still lost in the busyness of daily life, but, I'm trying.
 
-Week 2 is supposed to be about introductions. This place is only a couple of years old, and I've only managed a [single introduction post](https://peridotlines.com/2023/06/19/am-i-on-a-rollercoaster-or-jumping-off-a-cliff/) in that time, and it wasn't even for Blaugust.
+Week 2 is supposed to be about introductions. This place is only a couple of years old, and I've only managed a [single introduction post](https://peridotlines.com/blog/2023/06/20/am-i-on-a-rollercoaster/) in that time, and it wasn't even for Blaugust.
 
 Here are the basics: I've written pretty much as long as I could manage it, whether it was letters, in diaries or journals, or short stories, or social media; I write. Music is also a big part of my life; I wonder how much of that could be chalked up to a childhood diet of Disney Renaissance movies. I love animals, but have only ever lived with cats; we currently have two: Rudy and Kochanski. I've knit since I was in college, and picked up crochet in the last year; we make a lot of things out of yarn in our household. That's pretty bare bones in the grand scheme of things, but hopefully this week I can flesh out some of this stuff and you can get to know me a little more.
 

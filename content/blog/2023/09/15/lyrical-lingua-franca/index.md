@@ -19,7 +19,7 @@ I tried using Duolingo to learn Portuguese, because "it's a romance language, it
 
 <figure>
 
-https://youtu.be/EVeZzR677DU?si=Fdj4o5BjehvXKyux
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVeZzR677DU?si=_GhivQeU9tkuVy5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -37,7 +37,7 @@ Instead, I'm making tentative steps to learn Irish (Gaeilge), because it just so
 
 <figure>
 
-https://youtu.be/vf3hbGMwsM8?si=-\_cYnGe58c-DOQJx
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vf3hbGMwsM8?si=yO2WKLS_D-jRh7el" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -53,7 +53,7 @@ I've been thinking a lot about language lately. Some of that is down to Hozier's
 
 <figure>
 
-https://youtu.be/1s9PWAzx4C4?si=XKWNTBftxwd141TJ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1s9PWAzx4C4?si=Qu2XTh5tlXDblhLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -71,7 +71,7 @@ I can't say which language in music will hit my guts and which one won't. So muc
 
 <figure>
 
-https://youtu.be/YnopHCL1Jk8?si=Zsq\_30gF1HStocWP
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YnopHCL1Jk8?si=qd3gi1BQLm4PO7kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 

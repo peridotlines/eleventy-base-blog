@@ -7,8 +7,7 @@ tags:
   - "dailyprompt"
 ---
 
-> What's a job you would like to do for just one day?
-> 
+>_What's a job you would like to do for just one day?_
 
 I'm not sure how I'm supposed to be looking at this prompt, but if I read it as "you have the chance to do a dream job for only one day, what's going to fulfill your wildest fantasies?" the very easiest answer for me is: no job.
 

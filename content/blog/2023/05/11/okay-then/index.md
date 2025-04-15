@@ -5,7 +5,6 @@ categories:
   - "writing-prompt"
 tags: 
   - "dailyprompt"
-  - "dailyprompt-1935"
 ---
 
 _What does freedom mean to you?_

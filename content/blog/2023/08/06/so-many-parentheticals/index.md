@@ -5,7 +5,6 @@ categories:
   - "2023"
   - "blaugust"
   - "screentime-sunday"
-coverImage: "image.png"
 ---
 
 The least conducive activity to writing (for me anyway) is having our TV on. Regardless, it's our most-used appliance, for everything from Netflix marathons to hopscotching through YouTube's algorithm. In this age of smart TVs, practically every program or movie is at our fingertips. There's dozens of new things friends and the majority of the internet keep recommending, and what are we watching right now? _Grey's Anatomy._

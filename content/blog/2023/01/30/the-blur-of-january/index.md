@@ -15,7 +15,7 @@ After several abbreviated trips around our apartment complex, we finally took ou
 
 <figure>
 
-[Go here to watch the miracle of moving water outside, in January, in Northern Minnesota.](https://youtu.be/cfmx2UGR1vQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cfmx2UGR1vQ?si=FPxwI4RUsWbeMLma" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figcaption>
 
@@ -61,4 +61,4 @@ I went to my first dentist appointment in a lengthy amount of time. Ivory was go
 
 After almost three years of working from home with a 15" laptop hooked up to an extra monitor, my already ancient device was starting to give up the ghost. I couldn't even leave my webcam plugged in when I wasn't using it, and expect anything else to work properly. So, based on specs from my work IT person I scoured the internet until I came upon something that hit all of the minimum requirements and had a larger screen; for a surprisingly affordable price. It's not going to run a graphics or memory intensive game, but considering I mostly want to be able to continue working from home, have something to write on other than a smart phone, and I wanted the computer to be ours without any strings, I think it fits the bill pretty nicely.
 
-And, as a follow-up to [my last post](https://peridotlines.com/2023/01/03/video-games-my-history/), _GoldenEye 007_ for N64 came to the Nintendo Switch a couple of days ago. I've been playing it off and on, and while things started off rather poorly I've managed to get four missions in on the easiest setting. Considering my previous experience couldn't have lasted more than 5 minutes, I guess this does technically mean I've improved my skills, at least a little bit.
+And, as a follow-up to [my last post](https://peridotlines.com/blog/2023/01/03/video-games-my-history/), _GoldenEye 007_ for N64 came to the Nintendo Switch a couple of days ago. I've been playing it off and on, and while things started off rather poorly I've managed to get four missions in on the easiest setting. Considering my previous experience couldn't have lasted more than 5 minutes, I guess this does technically mean I've improved my skills, at least a little bit.
