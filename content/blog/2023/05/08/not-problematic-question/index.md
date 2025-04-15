@@ -5,7 +5,6 @@ categories:
   - "writing-prompt"
 tags: 
   - "dailyprompt"
-  - "dailyprompt-1929"
 ---
 
 Just as a test, here I am, spending today's 30 minute lunch break trying to answer a writing prompt.

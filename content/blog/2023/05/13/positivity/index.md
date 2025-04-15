@@ -5,14 +5,10 @@ categories:
   - "writing-prompt"
 tags: 
   - "dailyprompt"
-  - "dailyprompt-1936"
 ---
 
-Daily writing prompt
 
-Share a story about someone who had a positive impact on your life.
-
-![](https://2.gravatar.com/avatar/2b9587f66a8e324156c969fedbdbe853?s=96&d=identicon&r=G)![](https://1.gravatar.com/avatar/a67d83f5170d7587df9cbe3a3cd45663?s=96&d=identicon&r=G)![](https://0.gravatar.com/avatar/08b7d60d3a1c4ab961c0d6f9de35f589?s=96&d=identicon&r=G)[View all responses](https://wordpress.com/tag/dailyprompt-1936)
+_Share a story about someone who had a positive impact on your life._
 
 I seem to have a wealth of acquaintances who've had a positive impact on my life. There are teachers, friends, family, co-workers, and even an employer or two, which is actually really heartening when I look back and realize: most of the people in my life don't suck. So, that's cool.
 

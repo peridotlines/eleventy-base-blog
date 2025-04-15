@@ -10,11 +10,7 @@ tags:
   - "dailyprompt-1939"
 ---
 
-Daily writing prompt
-
-Are you a leader or a follower?
-
-![](https://1.gravatar.com/avatar/4c132e40c1125ef54d8ed61ab7c84c61?s=96&d=identicon&r=G)![](https://2.gravatar.com/avatar/206c06e22c723236568f03c772329dcd?s=96&d=identicon&r=G)![](https://0.gravatar.com/avatar/304d7ab9727603bbae21c3150e184874?s=96&d=identicon&r=G)[View all responses](https://wordpress.com/tag/dailyprompt-1939)
+_Are you a leader or a follower?_
 
 The answer here is always follower. Always.
 
@@ -34,7 +30,7 @@ There's lots of travel in our future, and toting around a laptop in those scenar
 
 * * *
 
-I've been dreading this month, probably for the last year, and this week specifically. Saturday, it will be a year since we said goodbye to [Moxie](https://peridotlines.com/2022/05/23/moxie/), and if there's one thing my brain is really good at, it's replaying scenarios. So, I've had a lot of mental processing that's gone into the aftermath, everything that led up to that day, and what it was like to live it. Apparently, this is my brain's way of trying to make peace with the outcome? Except that I'm not there yet.
+I've been dreading this month, probably for the last year, and this week specifically. Saturday, it will be a year since we said goodbye to [Moxie](https://peridotlines.com/2022/05/23-moxie/), and if there's one thing my brain is really good at, it's replaying scenarios. So, I've had a lot of mental processing that's gone into the aftermath, everything that led up to that day, and what it was like to live it. Apparently, this is my brain's way of trying to make peace with the outcome? Except that I'm not there yet.
 
 There's not a set timeline for grief, but honestly it's regret more than anything else. There are days when I wish I'd been a little more selfish and refused to let her go for a little longer. Except, then I remember holding her in her final minutes and feeling her truly relax for the first time in so very long, and realizing just how uncomfortable she had been, and I think about how unfair it would have been to have kept her because I wasn't ever going to be ready to say goodbye.
 
