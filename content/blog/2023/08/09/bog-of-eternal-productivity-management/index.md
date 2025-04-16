@@ -1,5 +1,6 @@
 ---
 title: "The Bog of Eternal Productivity Management"
+description: I've tried a variety of things to track and manage my time and tasks. Some with more success than others. Bullet Journalling was my preference for a long time, but it might be starting to fail. Written for Blaugust 2023.
 date: "2023-08-09"
 categories: 
   - "2023"

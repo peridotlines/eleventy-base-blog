@@ -1,5 +1,6 @@
 ---
 title: "Blaugust!"
+description: Even though it's a lot of work, I'm enjoying the push of getting something written and posted everyday. Written for Blaugust 2023.
 date: "2023-08-10"
 categories: 
   - "2023"

@@ -1,5 +1,6 @@
 ---
 title: "Past Times"
+description: Starting to get used to Bluesky. I was also reminded of the weirdness of Don Hertzfeldt's Rejected cartoon.
 date: "2023-09-05"
 ---
 

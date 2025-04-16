@@ -1,5 +1,6 @@
 ---
 title: "Music Monday: Motivation Edition"
+description: I use music as a motivator, a way to set scenes, and sometimes to procrastinate. Written for Blaugust 2023.
 date: "2023-08-21"
 categories: 
   - "2023"

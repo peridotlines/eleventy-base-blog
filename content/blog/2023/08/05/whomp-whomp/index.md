@@ -1,6 +1,6 @@
 ---
 title: "Whomp whomp!"
-date: "2023-08-06"
+date: "2023-08-05"
 categories: 
   - "2023"
   - "blaugust"

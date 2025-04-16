@@ -1,5 +1,6 @@
 ---
 title: "Lyrical Lingua Franca"
+description: I love listening to music and language is fascinating to me. Sometimes, these two things intersect.
 date: "2023-09-15"
 ---
 

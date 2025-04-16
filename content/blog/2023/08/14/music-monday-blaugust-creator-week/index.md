@@ -1,5 +1,6 @@
 ---
 title: "Music Monday: Blaugust Creator Week Edition"
+description: When I'm not watching drama or commentary channels, we actually watch a lot of music-focused channels on Youtube. These are some of our favorites. Written for Blaugust 2023.
 date: "2023-08-14"
 categories: 
   - "2023"

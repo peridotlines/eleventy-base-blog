@@ -1,5 +1,6 @@
 ---
 title: "Am I on a Rollercoaster, or Jumping off a Cliff?"
+description: It's pride month, and I'm choosing to share more about my identity this year.
 date: "2023-06-20"
 categories: 
   - "lgbtq"

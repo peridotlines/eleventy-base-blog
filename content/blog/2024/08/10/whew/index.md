@@ -1,5 +1,6 @@
 ---
 title: "Whew!"
+description: My current life seems to be perpetually busy at the moment. Written for Blaugust 2024.
 date: "2024-08-10"
 categories: 
   - "2024"
@@ -12,7 +13,7 @@ tags:
   - "life"
 ---
 
-![2024 Blaugust Felstival of Blogging logo, with black and white fading checked background](images/blaugust2024-litecheck2674701766089102473-1024x372.png)
+![2024 Blaugust Festival of Blogging logo, with black and white fading checked background](images/blaugust2024-litecheck2674701766089102473-1024x372.png)
 
 Somehow, I survived the week.
 

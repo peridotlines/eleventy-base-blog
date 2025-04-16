@@ -1,5 +1,6 @@
 ---
 title: "That's Not For Me"
+description: I wrote about enjoying works of fiction and how that enjoyment gets ruined by their creators turning out to be cruel and or ignorant people. Written for Blaugust 2023.
 date: "2023-08-22"
 categories: 
   - "2023"

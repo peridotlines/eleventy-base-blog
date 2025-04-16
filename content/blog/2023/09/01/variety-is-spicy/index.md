@@ -1,7 +1,8 @@
 ---
 title: "Variety is Spicy"
+description: My mom is a crafter, and that means so am I.
 date: "2023-09-01"
-categories: 
+tags: 
   - "fiber-friday"
 ---
 

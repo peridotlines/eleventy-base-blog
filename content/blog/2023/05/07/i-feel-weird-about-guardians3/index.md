@@ -1,5 +1,6 @@
 ---
 title: "I Feel Weird About Guardians of the Galaxy Vol. 3"
+description: I went to see Guardians of the Galaxy Volume 3 this weekend. The traumatic experience of Rocket Raccoon stuck with me much more than I anticipated.
 date: "2023-05-07"
 categories: 
   - "movies"

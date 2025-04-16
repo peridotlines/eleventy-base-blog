@@ -1,5 +1,6 @@
 ---
 title: "Wednesday Waffle"
+description: Despite being prepared, it seems to be more of a struggle to get a daily post up this year. Written for Blaugust 2024.
 date: "2024-08-08"
 categories: 
   - "2024"
@@ -8,7 +9,7 @@ tags:
   - "blaugust"
 ---
 
-![2024 Blaugust Felstival of Blogging logo, with black and white fading checked background](images/blaugust2024-litecheck2674701766089102473-1024x372.png)
+![2024 Blaugust Festival of Blogging logo, with black and white fading checked background](images/blaugust2024-litecheck2674701766089102473-1024x372.png)
 
 I have barely survived the first week of Blaugust 2024. Prioritizing this place on the daily feels next to impossible, especially with how little time I've spent here in the past few months.
 

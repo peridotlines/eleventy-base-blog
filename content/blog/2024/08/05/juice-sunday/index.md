@@ -1,5 +1,6 @@
 ---
 title: "Juice Sunday"
+description: We used my grandmother's steam juicer for the first time to make some cherry syrup. Written for Blaugust 2024.
 date: "2024-08-05"
 categories: 
   - "2024"

@@ -1,5 +1,6 @@
 ---
 title: "HBD RUDY!"
+description: A birthday post for our favorite orange boy, Rudy. Written for Blaugust 2023.
 date: "2023-08-19"
 categories: 
   - "2023"

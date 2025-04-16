@@ -1,5 +1,6 @@
 ---
 title: "Gaining and Losing"
+description: The season is changing, it can be a little bittersweet. I also made some pea soup and had a nice dream about someone I lost almost 20 years ago.
 date: "2023-10-06"
 ---
 

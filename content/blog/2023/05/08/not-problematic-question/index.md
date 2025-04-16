@@ -1,5 +1,6 @@
 ---
 title: "Not at all a problematic question!"
+description: Sometimes I can be very picky when it comes to my crafting materials.
 date: "2023-05-08"
 categories: 
   - "writing-prompt"

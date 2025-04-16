@@ -1,5 +1,6 @@
 ---
 title: "Where else?"
+description: I'm becoming a digital nomad. It's getting difficult to post other places, because it feels like posting there condones the other, ugly aspects of the site.
 date: "2023-04-29"
 categories: 
   - "life"

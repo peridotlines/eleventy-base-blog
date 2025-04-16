@@ -1,6 +1,7 @@
 ---
 title: "Glad that's Over!"
-date: "2023-09-01"
+description: I'm relieved to no longer have a daily posting habit I must maintain. Written for Blaugust 2023.
+date: "2023-08-30"
 categories: 
   - "2023"
   - "blaugust"

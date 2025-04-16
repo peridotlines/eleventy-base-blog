@@ -1,5 +1,6 @@
 ---
 title: "Asking Through Observation"
+description: I struggle to verbally ask questions. But I do ask them, just by looking at everything around me, I guess. Written for Blaugust 2023.
 date: "2023-08-02"
 categories: 
   - "writing-wednesday"

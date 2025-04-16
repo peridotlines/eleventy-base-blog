@@ -1,5 +1,6 @@
 ---
 title: "Blaugust 2024 is Here!"
+description: Somehow, I am even less prepared for Blaugust than when I found out about it a year ago. But, there's linked information in this post for anyone who is interested in participating now, or in the future. Written for Blaugust 2024.
 date: "2024-08-01"
 categories: 
   - "2024"

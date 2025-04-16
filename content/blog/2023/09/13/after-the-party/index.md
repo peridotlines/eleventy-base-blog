@@ -1,5 +1,6 @@
 ---
 title: "After the Party"
+description: Some thoughts on looking back at an event through photos. It's nice to see things you missed on the day.
 date: "2023-09-13"
 categories: 
   - "writing-wednesday"

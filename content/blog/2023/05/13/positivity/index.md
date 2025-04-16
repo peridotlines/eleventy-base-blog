@@ -1,5 +1,6 @@
 ---
 title: "Positivity"
+description: I wrote about my junior and senior high experiences in competitive speech, and how much it had an impact on my life.
 date: "2023-05-13"
 categories: 
   - "writing-prompt"

@@ -1,5 +1,6 @@
 ---
 title: "So Many Parentheticals..."
+description: We watch a lot of television in our home. I'm both looking forward to and dreading our progress through Grey's Anatomy. Written for Blaugust 2023.
 date: "2023-08-06"
 categories: 
   - "2023"

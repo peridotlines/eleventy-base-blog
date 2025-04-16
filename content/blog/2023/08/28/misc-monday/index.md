@@ -1,5 +1,6 @@
 ---
 title: "Misc. Monday"
+description: I'm starting to run out of steam with this whole daily blogging thing. And even having themed days doesn't seem to be serving me all that well. Written for Blaugust 2023.
 date: "2023-08-28"
 categories: 
   - "2023"

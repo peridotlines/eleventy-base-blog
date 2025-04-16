@@ -1,5 +1,6 @@
 ---
 title: "Clock App Creators"
+description: I've really gotten into TikTok in the last year. I wrote about some of my favorite creators on that app. Written for Blaugust 2023.
 date: "2023-08-15"
 categories: 
   - "2023"

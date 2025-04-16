@@ -1,5 +1,6 @@
 ---
 title: "Music Monday: Blaugust 2023 Edition"
+description: Some of my favorite music over the course of my life. Written for Blaugust 2023.
 date: "2023-08-07"
 categories: 
   - "2023"

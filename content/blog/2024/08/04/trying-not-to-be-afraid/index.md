@@ -1,5 +1,6 @@
 ---
 title: "Trying not to be Afraid of Bike Commuting"
+description: I'm trying to mentally prepare myself for riding my bike a couple of miles to work on Monday. Written for Blaugust 2024.
 date: "2024-08-04"
 categories: 
   - "2024"

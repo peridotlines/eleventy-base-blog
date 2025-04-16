@@ -1,5 +1,6 @@
 ---
 title: "Sky Blue"
+description: I've been using Bluesky as an alternative to Twitter. It's been an adjustment, but a very marked improvement.
 date: "2023-09-28"
 categories: 
   - "social-media"

@@ -1,5 +1,6 @@
 ---
 title: "Happy Pride!"
+description: My town is celebrating LGBTQ Pride this weekend. Written for Blaugust 2023.
 date: "2023-08-26"
 categories: 
   - "2023"

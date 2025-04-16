@@ -1,5 +1,6 @@
 ---
 title: "Just Another Monday"
+description: A not-retrospective post on the date. It's a lot of rambling, but it does end with a cat picture.
 date: "2023-09-11"
 ---
 

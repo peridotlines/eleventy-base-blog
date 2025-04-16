@@ -1,5 +1,6 @@
 ---
 title: "Lesson Time"
+description: What have I learned from deciding to participate in a month-long blogging activity. Written for Blaugust 2023.
 date: "2023-08-27"
 categories: 
   - "2023"

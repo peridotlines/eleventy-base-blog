@@ -1,5 +1,6 @@
 ---
 title: "And Then..."
+description: There's an impossibility in choosing favorites. Written for Blaugust 2023.
 date: "2023-08-29"
 categories: 
   - "2023"

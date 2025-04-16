@@ -1,5 +1,6 @@
 ---
 title: "I had Jack Black's Voice in my Head"
+description: We canned some peaches.
 date: "2023-07-24"
 categories: 
   - "life"

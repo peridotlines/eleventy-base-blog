@@ -1,5 +1,6 @@
 ---
 title: "Okay then..."
+description: I used a writing prompt and considered what freedom means to me.
 date: "2023-05-11"
 categories: 
   - "writing-prompt"

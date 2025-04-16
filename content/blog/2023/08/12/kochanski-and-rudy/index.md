@@ -1,6 +1,7 @@
 ---
 title: "Kochanski and Rudy"
-date: "2023-08-13"
+description: Meet our resident felines Kochanski and Rudy. Written for Blaugust 2023.
+date: "2023-08-12"
 categories: 
   - "2023"
   - "blaugust"

@@ -1,5 +1,6 @@
 ---
 title: "Bird Watching"
+description: We've been maintaining some bird feeders on our balcony. We're finally starting to see repeat customers.
 date: "2022-05-28"
 ---
 

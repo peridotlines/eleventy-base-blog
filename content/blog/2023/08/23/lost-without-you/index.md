@@ -1,5 +1,6 @@
 ---
 title: "Lost Without You..."
+description: I'm a little addicted to our smart home amenities. Written for Blaugust 2023.
 date: "2023-08-23"
 categories: 
   - "2023"

@@ -1,5 +1,6 @@
 ---
 title: "A Day in Life"
+description: Wondering what it would be like to do a different job for one day.
 date: "2023-05-09"
 categories: 
   - "writing-prompt"

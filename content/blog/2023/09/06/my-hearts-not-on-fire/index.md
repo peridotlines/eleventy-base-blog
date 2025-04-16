@@ -1,5 +1,6 @@
 ---
 title: "My heart's not on fire, but there's smoke in my eyes"
+description: Lots of frustration over the current weather being hot and smoky even when the temperature dropped. Also over Twitter's descent into a whole lot of ugliness.
 date: "2023-09-06"
 categories: 
   - "writing-wednesday"

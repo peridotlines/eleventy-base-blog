@@ -1,5 +1,6 @@
 ---
 title: "Video Games, my History"
+description: I'm finally starting to feel like I might be able to call myself a gamer. It's been a bit of a learning curve.
 date: "2023-01-03"
 categories: 
   - "gaming"

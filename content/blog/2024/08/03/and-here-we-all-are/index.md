@@ -1,5 +1,6 @@
 ---
 title: "And Here We All Are"
+description: My general life habits have changed a little in the last year. What are we up to now? Written for Blaugust 2024.
 date: "2024-08-03"
 categories: 
   - "2024"
@@ -8,7 +9,7 @@ tags:
   - "blaugust"
 ---
 
-![2024 Blaugust Festival of Blogging logo, it has a black 'td white checkered background ](images/blaugust2024-litecheck-8007037277046433400574.png)
+![2024 Blaugust Festival of Blogging logo, it has a black and white checkered background ](images/blaugust2024-litecheck-8007037277046433400574.png)
 
 Did I forget I still need to do a post today and it's after 7pm? 100% yes.
 

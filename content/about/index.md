@@ -6,7 +6,7 @@ const eleventyNavigation = {
 ---
 # About
 
-![An orange tabby cat spills out of a cat tower alcove, squishing part of his face against a scratching post and showing his toe beans to the camera.](about/images/IMG_20220928_150143936-scaled.jpg)
+![An orange tabby cat spills out of a cat tower alcove, squishing part of his face against a scratching post and showing his toe beans to the camera.](images/IMG_20220928_150143936-scaled.jpg)
 
 Hi! I don’t know how you found me, but welcome all the same!
 

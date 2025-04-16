@@ -1,5 +1,6 @@
 ---
 title: "Main Motivators"
+description: Finding motivation to write. I've also found some comparisons between blogging for a month and participating in National Novel Writing Month. Written for Blaugust 2023.
 date: "2023-08-24"
 categories: 
   - "2023"
@@ -18,7 +19,7 @@ In a way, November is both the worst and the best time to have the NaNo exercise
 
 It's a lot. And its a whole lot of nonsense. The nice thing about Blaugust appears to be that you write what you write, because it's the exercise of writing. Which is a lot like NaNoWriMo, except that there's a chance more people will see it than if I wrote a story where the climax probably included something like "\[they all do magicy things here, and win the day\]," because sometimes you just can't be bothered to craft the intricate plot points necessary to flesh out overcoming that final obstacle in the heat of the moment.
 
-Blog posts don't really work that way. If you have something you're going to put brackets around to fix later, then the post isn't "ready" to go up, and you've got to fix it first. Although, there's probably an argument to be made that you just lay it all bare to someone and say "\[I have a many thoughts about this thing, and it's going to be a subject all its own someday\]."
+Blog posts don't really work that way. If you have something you're going to put brackets around to fix later, then the post isn't "ready" to go up, and you've got to fix it first. Although, there's probably an argument to be made that you just lay it all bare to someone and say "\[I have many thoughts about this thing, and it's going to be a subject all its own someday\]."
 
 As it gets towards the end of the month, I'm strategizing about how to maintain some of the momentum I've built here. Maybe it will be looking at my energy throughout the week and focusing on those days as writing days, so I actually start scheduling posts to come out at a time human eyes will see them. Or, maybe I'll keep poking at this place everyday to try to ingrain the habit I'm trying to build. Providing myself some alliterative framework to fall back on if I've got nothing else to write about is my go-to strategy for the moment. I'm not sure how long I can maintain that before I get tired of it though. I also have a document I'm using to hold some ideas of where to go next. I'm wary of planning though, because my penchant for black and white thinking tends to lead to me scrapping things completely if they don't go exactly as I intended.
 

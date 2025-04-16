@@ -1,5 +1,6 @@
 ---
 title: "It's on the Air"
+description: Fall is starting to become more visible, and I'm frustrated that the season is here after a smoky and hot summer made being outside much more difficult.
 date: "2023-09-12"
 categories: 
   - "life"

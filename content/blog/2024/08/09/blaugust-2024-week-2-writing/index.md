@@ -1,6 +1,7 @@
 ---
 title: "Blaugust 2024 Week 2: Writing"
-date: "2024-08-08"
+description: Writing is something I've done in a variety of ways for most of my life. Written for Blaugust 2024.
+date: "2024-08-09"
 categories: 
   - "2024"
   - "blaugust"

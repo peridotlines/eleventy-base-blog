@@ -1,5 +1,6 @@
 ---
 title: "The Blur of January"
+description: January flew by. We managed to experience some snowshoeing for ourselves.
 date: "2023-01-30"
 categories: 
   - "life"

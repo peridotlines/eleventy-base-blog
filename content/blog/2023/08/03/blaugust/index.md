@@ -1,5 +1,6 @@
 ---
 title: "Blaugust?"
+description: The current age of sharing information on social media is tedious as fuck. Written for Blaugust 2023.
 date: "2023-08-03"
 categories: 
   - "2023"

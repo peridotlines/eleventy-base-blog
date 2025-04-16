@@ -1,5 +1,6 @@
 ---
 title: "Prompts, Busyness, and some Melancholy"
+description: Life goes on. It's coming up on a year since we said goodbye to Moxie, and I'm finding it a challenge to post on the days when I don't have actual work to do. Something about the lack of structure.
 date: "2023-05-15"
 categories: 
   - "life"
@@ -7,7 +8,6 @@ categories:
   - "writing-prompt"
 tags: 
   - "dailyprompt"
-  - "dailyprompt-1939"
 ---
 
 _Are you a leader or a follower?_

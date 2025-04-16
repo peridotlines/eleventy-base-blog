@@ -1,5 +1,6 @@
 ---
 title: "There Goes THAT Streak"
+description: I managed to forget to post one day for Blaugust, after going 2 straight weeks without interruption. Figures. Written for Blaugust 2023.
 date: "2023-08-20"
 categories: 
   - "2023"

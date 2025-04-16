@@ -1,5 +1,6 @@
 ---
 title: "Blink and You'll Miss It"
+description: I shared some thoughts on my family's loss of my grandmother Marie.
 date: "2023-07-13"
 categories: 
   - "life"

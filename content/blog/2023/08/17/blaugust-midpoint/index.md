@@ -1,5 +1,6 @@
 ---
 title: "Blaugust Midpoint"
+description: Somehow, I'm halfway through this monthly blogging endeavor. I'm starting to look past August, wondering how I can maintain this habit outside of a challenge. Written for Blaugust 2023.
 date: "2023-08-17"
 categories: 
   - "2023"

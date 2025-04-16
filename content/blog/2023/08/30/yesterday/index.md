@@ -1,5 +1,6 @@
 ---
 title: "Yesterday?"
+description: Thinking back on what it was like to get my drivers' license. I was an exhausting teenager. Written for Blaugust 2023.
 date: "2023-08-30"
 categories: 
   - "2023"

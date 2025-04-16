@@ -1,5 +1,6 @@
 ---
 title: "Happy Gotcha Day Rudy!!!!"
+description: It's been a year since we adopted our orange boi Rudy! He is our favorite little man.
 date: "2023-06-08"
 categories: 
   - "cats"

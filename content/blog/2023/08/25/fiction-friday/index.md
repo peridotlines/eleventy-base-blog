@@ -1,5 +1,6 @@
 ---
 title: "Fiction Friday?"
+description: I shelled out for the Year of Sanderson book boxes. It's only got a few months left, but it's been more than worth it.Written for Blaugust 2023.
 date: "2023-08-25"
 categories: 
   - "2023"

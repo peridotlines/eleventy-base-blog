@@ -1,5 +1,6 @@
 ---
 title: "Who Am I Now?"
+description: I wanted to get one post up during Pride Month. It's mostly about learning to ride a bike and being busy with our local TTRPG group.
 date: "2024-06-09"
 categories: 
   - "life"

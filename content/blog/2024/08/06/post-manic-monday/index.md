@@ -1,5 +1,6 @@
 ---
 title: "Post-Manic Monday"
+description: I rode my bike to work for the first time. It was an interesting experience. Written for Blaugust 2024.
 date: "2024-08-06"
 categories: 
   - "2024"

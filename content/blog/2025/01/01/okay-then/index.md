@@ -1,5 +1,6 @@
 ---
 title: "Okay Then"
+description: This website is now 100% under my control. Hopefully this means (good) change is coming.
 date: "2025-01-01"
 categories: 
   - "writing-wednesday"

@@ -1,5 +1,6 @@
 ---
 title: "Fiber Friday, Blaugust edition"
+description: A look at some of the knitting projects I've finished in the past. Written for Blaugust 2023.
 date: "2023-08-11"
 categories: 
   - "2023"

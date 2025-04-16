@@ -1,5 +1,6 @@
 ---
 title: "A Chunk Here, Another one There"
+description: Yesterday was my 15 year Twitter anniversary. That feels less thrilling than I anticipated it would in the wake of all Elon Musk's BS. Written for Blaugust 2023.
 date: "2023-08-16"
 categories: 
   - "2023"

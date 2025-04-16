@@ -1,5 +1,6 @@
 ---
 title: "YouTube Nonsense"
+description: I've spent the last 6 months getting sucked into Youtube Drama. It's basically trash tv I watch without concern for how it's probably rotting my brain. Written for Blaugust 2023.
 date: "2023-08-14"
 categories: 
   - "2023"

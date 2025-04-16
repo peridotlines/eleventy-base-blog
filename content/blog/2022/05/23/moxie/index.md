@@ -1,5 +1,6 @@
 ---
 title: "Moxie"
+description: My very first post on this website. It's a tribute to my cat Moxie. She passed away on May 20th, 2023. This is a look back over her life.
 date: "2022-05-23"
 tags: 
   - "daggerbeasts"

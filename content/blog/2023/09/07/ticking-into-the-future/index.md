@@ -1,5 +1,6 @@
 ---
 title: "Ticking Into the Future"
+description: A week into September and I'm beginning to realize that the next month is going to be busy in ways I hadn't anticipated.
 date: "2023-09-07"
 ---
 

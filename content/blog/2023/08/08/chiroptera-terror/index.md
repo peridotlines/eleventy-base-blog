@@ -1,5 +1,6 @@
 ---
 title: "Chiroptera Terror"
+description: A tiktoker's recent brush with a bat in her home made me think back on all of the experiences I've had with bats as an adult, and how I both love and fear them. Written for Blaugust 2023.
 date: "2023-08-08"
 categories: 
   - "2023"

@@ -1,5 +1,6 @@
 ---
 title: "Meandering"
+description: My motivation to post regularly is finally starting to wane. This is some rambling on the struggle to maintain the habit and wondering if gamifying my life would help in some way.
 date: "2023-09-19"
 categories: 
   - "gaming"
