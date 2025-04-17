@@ -13,9 +13,9 @@
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050F;
+	--text-color-link: #0a4008;
+	--text-color-link-active: #2b575f;
+	--text-color-link-visited: #1d3d36;
 
 	--syntax-tab-size: 2;
 }
@@ -31,7 +31,7 @@
 		--text-color-link-active: #58f329;
 		--text-color-link-visited: #c4f584;
 
-		--background-color: #232b15;
+		--background-color: #43463e;
 	}
 }
 
@@ -192,22 +192,32 @@ header {
 }
 
 /* Nav */
-.nav {
-	display: flex;
-	gap: .5em 1em;
-	padding: 0;
-	margin: 0;
-	list-style: none;
-}
-.nav-item {
-	display: inline-block;
-}
-.nav-item a[href]:not(:hover) {
+/* Add a black background color to the top navigation */
+.nav-list {
+	overflow: hidden;
+  }
+
+  /* Style the links inside the navigation bar */
+.nav-list a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
 	text-decoration: none;
-}
-.nav a[href][aria-current="page"] {
-	text-decoration: underline;
-}
+	font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+.nav-list a:hover {
+	background-color: #ddd;
+	color: black;
+  }
+  
+  /* Add a color to the active/current link */
+.nav-list a.active {
+	background-color: #04AA6D;
+	color: white;
+  }
 
 /* Posts list */
 .postlist {
@@ -233,7 +243,7 @@ header {
 }*/
 .postlist-date,
 .postlist-item:before {
-	font-size: 0.8125em; /* 13px /16 */
+	font-size: 0.75em; /* 13px /16 */
 	color: var(--color-gray-90);
 }
 .postlist-date {
@@ -278,3 +288,13 @@ header {
 	margin-right: 1em;
 }
 
+/* Footer */
+.footer {
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: var(--background-color);
+	color: var(--text-color);
+	text-align: center;
+}

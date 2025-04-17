@@ -4,7 +4,7 @@ const eleventyNavigation = {
 	order: 2
 };
 ---
-<h1>My Blog</h1>
+<h2>My Blog</h2>
 
-{% set postslist = collections.posts %}
+<ul>{% set postslist = collections.posts %}
 {% include "postslist.njk" %}
