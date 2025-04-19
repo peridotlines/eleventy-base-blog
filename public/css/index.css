@@ -192,29 +192,35 @@ header {
 }
 
 /* Nav */
-/* Add a black background color to the top navigation */
-.nav-list {
+/* black background in the nav bar 
+.nav-item {
+	list-style-type: none;
+	margin: 0;
+	padding: 14px 16px;
 	overflow: hidden;
-  }
-
+	background-color: #333;
+}*/
   /* Style the links inside the navigation bar */
-.nav-list a {
+.nav-item {
+	display: inline;
 	float: left;
 	color: #f2f2f2;
-	text-align: center;
+	text-align: right;
 	padding: 14px 16px;
-	text-decoration: none;
 	font-size: 17px;
   }
-  
+  /* remove underline from links */
+.nav-item a {
+	text-decoration: none;
+}
   /* Change the color of links on hover */
-.nav-list a:hover {
-	background-color: #ddd;
+.nav-item a:hover {
 	color: black;
   }
   
   /* Add a color to the active/current link */
-.nav-list a.active {
+.nav-item a.active {
+	[aria-current="page"] {
 	background-color: #04AA6D;
 	color: white;
   }
@@ -232,7 +238,6 @@ header {
 	counter-increment: start-from -1;
 	margin-bottom: 1em;
 }
-/*
 .postlist-item:before {
 	display: inline-block;
 	pointer-events: none;
@@ -240,7 +245,7 @@ header {
 	line-height: 100%;
 	text-align: right;
 	margin-left: -1.5rem;
-}*/
+}
 .postlist-date,
 .postlist-item:before {
 	font-size: 0.75em; /* 13px /16 */
@@ -253,7 +258,7 @@ header {
 	font-size: 1.1875em; /* 19px /16 */
 	font-weight: 700;
 	flex-basis: calc(100% - 1.5rem);
-	/*padding-left: .25em;*/
+	padding-left: .25em;
 	padding-right: .5em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;
