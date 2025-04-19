@@ -192,15 +192,14 @@ header {
 }
 
 /* Nav */
-/* black background in the nav bar 
-.nav-item {
-	list-style-type: none;
-	margin: 0;
-	padding: 14px 16px;
-	overflow: hidden;
-	background-color: #333;
-}*/
-  /* Style the links inside the navigation bar */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+/* Style the links inside the navigation bar */
 .nav-item {
 	display: inline;
 	float: left;
@@ -223,6 +222,7 @@ header {
 	[aria-current="page"] {
 	background-color: #04AA6D;
 	color: white;
+	text-decoration: underline;
   }
 
 /* Posts list */

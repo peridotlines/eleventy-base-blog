@@ -2,7 +2,7 @@
 <ol reversed class="postlist">
 {%- for post in postslist | reverse %}
 	<ul class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+		<h3><a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
 		<p class="text-xsm">Published on <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL d yyyy") }}</time></p>
 		<p class="post.description"> {{ post.data.description }}</p>
 	</ul>
