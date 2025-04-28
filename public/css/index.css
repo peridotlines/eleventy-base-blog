@@ -31,7 +31,7 @@
 		--text-color-link-active: #58f329;
 		--text-color-link-visited: #c4f584;
 
-		--background-color: #43463e;
+		--background-color: #253435;
 	}
 }
 
@@ -192,38 +192,30 @@ header {
 }
 
 /* Nav */
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+.nav {
+	display: inline-block;
+	gap: .5em 1em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-size: large;
 }
-/* Style the links inside the navigation bar */
 .nav-item {
 	display: inline;
-	float: left;
-	color: #f2f2f2;
-	text-align: right;
-	padding: 14px 16px;
-	font-size: 17px;
-  }
-  /* remove underline from links */
-.nav-item a {
-	text-decoration: none;
 }
-  /* Change the color of links on hover */
-.nav-item a:hover {
-	color: black;
-  }
-  
-  /* Add a color to the active/current link */
-.nav-item a.active {
-	[aria-current="page"] {
-	background-color: #04AA6D;
-	color: white;
+.nav-item a[href]:not(:hover) {
+	text-decoration: none;
+	font-size: large;
+	font-weight: 700;
+}
+.nav a[href][aria-current="page"] {
 	text-decoration: underline;
-  }
+}
+.nav-item a[href]:hover {
+	text-decoration: underline;
+	font-weight: 700;
+	font-size: large;
+}
 
 /* Posts list */
 .postlist {
@@ -231,7 +223,7 @@ ul {
 	padding: 0;
 	padding-left: 1.5rem;
 }
-.postlist-item {
+/*.postlist-item {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: baseline;
@@ -239,16 +231,16 @@ ul {
 	margin-bottom: 1em;
 }
 .postlist-item:before {
-	display: inline-block;
+	display: none;
 	pointer-events: none;
 	content: "" counter(start-from, decimal-leading-zero) ". ";
 	line-height: 100%;
-	text-align: right;
+	text-align: left;
 	margin-left: -1.5rem;
-}
+}*/
 .postlist-date,
 .postlist-item:before {
-	font-size: 0.75em; /* 13px /16 */
+	font-size: 0.8125em; /* 13px /16 */
 	color: var(--color-gray-90);
 }
 .postlist-date {
@@ -258,8 +250,8 @@ ul {
 	font-size: 1.1875em; /* 19px /16 */
 	font-weight: 700;
 	flex-basis: calc(100% - 1.5rem);
-	padding-left: .25em;
-	padding-right: .5em;
+	padding-left: .0em;
+	padding-right: .0em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;
 	text-decoration-thickness: 1px;
@@ -274,7 +266,7 @@ ul {
 	align-items: center;
 	justify-content: center;
 	text-transform: none;
-	font-style: italic;
+	font-style: bold;
 }
 .postlist-item > .post-tag {
 	align-self: center;
